@@ -1,0 +1,755 @@
+\bibitem{aaronson:06}
+Aaronson, Scott.
+\newblock Oracles are subtle but not malicious.
+\newblock 21st Annual IEEE Conference on Computational Complexity (CCC'06): 15--pp, 2006.
+
+\bibitem{adleman:77}
+Leonard M. Adleman and Kenneth L. Manders.
+\newblock Reducibility, Randomness, and Intractability (Abstract).
+\newblock Proceedings of the 9th Annual {ACM: 151--163, 1977.
+
+\bibitem{adleman:78}
+Adleman, Leonard.
+\newblock Two theorems on random polynomial time.
+\newblock 19th Annual Symposium on Foundations of Computer Science (sfcs 1978): 75--83, 1978.
+
+\bibitem{adleman:87}
+Adleman, Leonard and Huang, M.
+\newblock Recognizing primes in random polynomial time.
+\newblock Proceedings of the Nineteenth Annual ACM Symposium on Theory of Computing: 462--469, 1987.
+
+\bibitem{allender:85}
+Allender, Eric Warren.
+\newblock Invertible functions.
+\newblock Georgia Institute of Technology, 1985.
+
+\bibitem{allender:88}
+Allender, Eric W and Rubinstein, Roy S.
+\newblock P-printable sets.
+\newblock SIAM Journal on Computing, 17(6): 1193--1202, 1988.
+
+\bibitem{amir:88}
+Amir, Amihood and Gasarch, William I.
+\newblock Polynomial terse sets.
+\newblock Information and Computation, 77(1): 37--56, 1988.
+
+\bibitem{angluin:80}
+Angluin, Dana.
+\newblock On counting problems and the polynomial-time hierarchy.
+\newblock Theoretical Computer Science, 12(2): 161--173, 1980.
+
+\bibitem{arora:09}
+Arora, Sanjeev and Barak, Boaz.
+\newblock Computational complexity: a modern approach.
+\newblock Cambridge University Press, 2009.
+
+\bibitem{babai:16}
+Babai, L{\'a}szl{\'o}.
+\newblock Graph isomorphism in quasipolynomial time.
+\newblock Proceedings of the forty-eighth annual ACM symposium on Theory of Computing: 684--697, 2016.
+
+\bibitem{babai:80}
+Babai, L{\'a}szl{\'o} and Erdos, Paul and Selkow, Stanley M.
+\newblock Random graph isomorphism.
+\newblock SIaM Journal on computing, 9(3): 628--635, 1980.
+
+\bibitem{baker:75}
+Baker, Theodore and Gill, John and Solovay, Robert.
+\newblock Relativizations of the P=?NP question.
+\newblock SIAM Journal on computing, 4(4): 431--442, 1975.
+
+\bibitem{baker:77}
+Baker, Theodore and Selman, Alan L..
+\newblock A second step toward the polynomial hierarchy.
+\newblock Theoretical Computer Science, 8(2): 177-187, 1979.
+
+\bibitem{balcazar:88}
+Balc{\'a}zar, Jos{\'e} L and D{\'\i}az, Josep and Gabarr{\'o}, Joaquim.
+\newblock Structural complexity.
+\newblock Springer Science \& Business Media, 1988.
+
+\bibitem{balcazar:90}
+Balc{\'a}zar, Jos{\'e} L and D{\'\i}az, Josep and Gabarr{\'o}, Joaquim.
+\newblock Structural complexity II.
+\newblock Springer Science \& Business Media, 1990.
+
+\bibitem{beigel:91}
+Beigel, Richard and Reingold, Nick and Spielman, Daniel.
+\newblock PP is closed under intersection.
+\newblock Proceedings of the twenty-third annual ACM symposium on Theory of Computing: 1--9, 1991.
+
+\bibitem{bennet:62}
+James Hallam Bennett.
+\newblock On Spectra.
+\newblock Princeton University, 1962.
+
+\bibitem{bennett:81}
+Bennett, Charles H and Gill, John.
+\newblock Relative to a Random Oracle A, $P^A\neq NP^A\neq co-NP^A$ with Probability 1.
+\newblock SIAM Journal on Computing, 10(1): 96--113, 1981.
+
+\bibitem{berkholz:17}
+Berkholz, Christoph and Bonsma, Paul and Grohe, Martin.
+\newblock Tight lower and upper bounds for the complexity of canonical colour refinement.
+\newblock Theory of Computing Systems, 60: 581--614, 2017.
+
+\bibitem{berman:77}
+Berman, Leonard and Hartmanis, Juris.
+\newblock On isomorphisms and density of NP and other complete sets.
+\newblock SIAM Journal on Computing, 6(2): 305--322, 1977.
+
+\bibitem{berman:78}
+Berman, Piotr.
+\newblock Relationship between density and deterministic complexity of MP-complete languages.
+\newblock Automata, Languages and Programming: Fifth Colloquium, Udine, Italy, July 17--21, 1978 5: 63--71, 1978.
+
+\bibitem{book:72}
+Book, Ronald V.
+\newblock On languages accepted in polynomial time.
+\newblock SIAM, 1972.
+
+\bibitem{book:72}
+Book, Ronald V.
+\newblock On languages accepted in polynomial time.
+\newblock SIAM Journal on Computing, 1(4): 281--287, 1972.
+
+\bibitem{book:74}
+Book, Ronald V.
+\newblock Comparing complexity classes.
+\newblock Elsevier, 1974.
+
+\bibitem{book:74}
+Book, Ronald V.
+\newblock Comparing complexity classes.
+\newblock Journal of Computer and System Sciences, 9(2): 213--229, 1974.
+
+\bibitem{book:76}
+Book, Ronald V.
+\newblock Translational lemmas, polynomial time, and (log n) j-space.
+\newblock Elsevier, 1976.
+
+\bibitem{book:76}
+Book, Ronald V.
+\newblock Translational lemmas, polynomial time, and (log n) j-space.
+\newblock Theoretical Computer Science, 1(3): 215--226, 1976.
+
+\bibitem{book:81}
+Book, Ronald V.
+\newblock Bounded query machines: on NP and PSPACE.
+\newblock Elsevier, 1981.
+
+\bibitem{book:81}
+Book, Ronald V.
+\newblock Bounded query machines: on NP and PSPACE.
+\newblock Theoretical Computer Science, 15(1): 27--39, 1981.
+
+\bibitem{book:81b}
+Book, Ronald V and Wrathall, Celia.
+\newblock Bounded query machines: On {NP} and {NPQUERY}.
+\newblock Elsevier, 1981.
+
+\bibitem{book:81b}
+Book, Ronald V and Wrathall, Celia.
+\newblock Bounded query machines: On {NP} and {NPQUERY}.
+\newblock Theoretical Computer Science, 15(1): 41--50, 1981.
+
+\bibitem{book:84}
+Book, Ronald V and Long, Timothy J and Selman, Alan L.
+\newblock Quantitative relativizations of complexity classes.
+\newblock SIAM, 1984.
+
+\bibitem{book:84}
+Book, Ronald V and Long, Timothy J and Selman, Alan L.
+\newblock Quantitative relativizations of complexity classes.
+\newblock SIAM Journal on Computing, 13(3): 461--487, 1984.
+
+\bibitem{borodin:72}
+Borodin, Allan.
+\newblock Computational complexity and the existence of complexity gaps.
+\newblock Journal of the ACM (JACM), 19(1): 158--174, 1972.
+
+\bibitem{borodin:77}
+Borodin, Allan.
+\newblock On relating time and space to size and depth.
+\newblock SIAM journal on computing, 6(4): 733--744, 1977.
+
+\bibitem{cai:86}
+Cai, Jin-yi and Hemachandra, Lane.
+\newblock The Boolean hierarchy: hardware over NP.
+\newblock Structure in Complexity Theory: 105--124, 1986.
+
+\bibitem{cai:89}
+Cai, Jin-Yi and Gundermann, Thomas and Hartmanis, Juris and Hemachandra, Lane A and Sewelson, Vivian and Wagner, Klaus and Wechsung, Gerd.
+\newblock The boolean hierarchy II: Applications.
+\newblock SIAM Journal on Computing, 18(1): 95--111, 1989.
+
+\bibitem{cai:89b}
+Cai, Jin-yi and Hemachandra, Lane A.
+\newblock On the power of parity polynomial time.
+\newblock STACS 89: 6th Annual Symposium on Theoretical Aspects of Computer Science Paderborn, FRG, February 16--18, 1989 Proceedings 6: 229--239, 1989.
+
+\bibitem{cai:92}
+Cai, Jin-Yi and F{\"u}rer, Martin and Immerman, Neil.
+\newblock An optimal lower bound on the number of variables for graph identifications.
+\newblock Combinatorica, 12(4): 389--410, 1992.
+
+\bibitem{chaitin:66}
+Chaitin, Gregory J.
+\newblock On the length of programs for computing finite binary sequences.
+\newblock Journal of the ACM (JACM), 13(4): 547--569, 1966.
+
+\bibitem{chaitin:69}
+Chaitin, Gregory J.
+\newblock On the simplicity and speed of programs for computing infinite sets of natural numbers.
+\newblock Journal of the ACM (JACM), 16(3): 407--422, 1969.
+
+\bibitem{chaitin:74}
+Chaitin, Gregory J.
+\newblock Information-theoretic limitations of formal systems.
+\newblock Journal of the ACM (JACM), 21(3): 403--424, 1974.
+
+\bibitem{chang:89}
+Chang, Richard.
+\newblock An example of a theorem that has contradictory relativizations and a diagonalization proof.
+\newblock , 1989.
+
+\bibitem{cobham:64}
+Cobham, Alan.
+\newblock The intrinsic computational difficulty of functions.
+\newblock International Congress for Logic, Methodology, and the Philosophy of Science: 24--40, 1964.
+
+\bibitem{cook:71}
+Cook, Stephen A.
+\newblock The complexity of theorem-proving procedures.
+\newblock Proceedings of the third annual ACM symposium on Theory of computing: 151--158, 1971.
+
+\bibitem{cook:79}
+Cook, Stephen A.
+\newblock Deterministic CFL's are accepted simultaneously in polynomial time and log squared space.
+\newblock Proceedings of the eleventh annual ACM Symposium on Theory of Computing: 338--345, 1979.
+
+\bibitem{cook:81}
+Cook, Stephen A.
+\newblock Towards a complexity theory of synchronous parallel computation.
+\newblock L Enseignement mathmatique: 99--124, 1981.
+
+\bibitem{csillag:47}
+Paul Csillag.
+\newblock Eine Bemerkung zur Auflösung der eingeschachtelten Rekursion.
+\newblock Acta scientiarum mathematicarum, 11: 169--173, 1947.
+
+\bibitem{du:11}
+Du, Ding-Zhu and Ko, Ker-I.
+\newblock Theory of computational complexity.
+\newblock John Wiley \& Sons, 2011.
+
+\bibitem{edmonds:65}
+Edmonds, Jack.
+\newblock Paths, trees, and flowers.
+\newblock Canadian Journal of mathematics, 17: 449--467, 1965.
+
+\bibitem{erdos:60}
+Erd{\"o}s, Paul and Rado, Richard.
+\newblock Intersection theorems for systems of sets.
+\newblock Journal of the London Mathematical Society, 1(1): 85--90, 1960.
+
+\bibitem{even:76}
+Even, Shimon and Tarjan, Robert Endre.
+\newblock A combinatorial problem which is complete in polynomial space.
+\newblock Journal of the ACM (JACM), 23(4): 710--719, 1976.
+
+\bibitem{fischer:74}
+Fischer, Michael J.
+\newblock Lectures on network complexity.
+\newblock Preprint Universit{\"a}t Frankfurt, 1974.
+
+\bibitem{fortune:79}
+Fortune, Steven.
+\newblock A note on sparse complete sets.
+\newblock SIAM Journal on Computing, 8(3): 431--433, 1979.
+
+\bibitem{gill:72}
+J. Gill.
+\newblock {P}robabilistic {T}uring {M}achines and {C}omplexity of {C}omputations.
+\newblock University of California at Berkeley, 1972.
+
+\bibitem{gill:74}
+J. Gill.
+\newblock Computational complexity of probabilistic Turing machines.
+\newblock Proceedings of the sixth annual ACM symposium on Theory of computing: 91--95, 1974.
+
+\bibitem{gill:77}
+J. Gill.
+\newblock Computational complexity of probabilistic {T}uring machines.
+\newblock SIAM Journal on Computing, 6: 675--695, 1977.
+
+\bibitem{goldreich:11}
+Goldreich, Oded and Zuckerman, David.
+\newblock Studies in Complexity and Cryptography. Miscellanea on the Interplay between Randomness and Computation.
+\newblock Springer Berlin Heidelberg, 2011.
+
+\bibitem{goldschlager:86}
+Goldschlager, Leslie M and Parberry, Ian.
+\newblock On the construction of parallel computers from various bases of boolean functions.
+\newblock Theoretical Computer Science, 43: 43--58, 1986.
+
+\bibitem{goldwasser:85}
+Goldwasser, S and Micali, S and Rackoff, C.
+\newblock The knowledge complexity of interactive proof systems.
+\newblock Proceedings of the 17th ACM Symposium on Theory of Computing: 291--304, 1985.
+
+\bibitem{goldwasser:86}
+Goldwasser, Shafi and Sipser, Michael.
+\newblock Private coins versus public coins in interactive proof systems.
+\newblock Proceedings of the eighteenth annual ACM symposium on Theory of computing: 59--68, 1986.
+
+\bibitem{grohe:20}
+Grohe, Martin and Neuen, Daniel.
+\newblock Recent advances on the graph isomorphism problem.
+\newblock arXiv preprint arXiv:2011.01366, 2020.
+
+\bibitem{hartmanis:64}
+Hartmanis, Juris and Stearns, Richard Edwin.
+\newblock Computational complexity of recursive sequnces.
+\newblock 1964 Proceedings of the Fifth Annual Symposium on Switching Circuit Theory and Logical Design: 82--90, 1964.
+
+\bibitem{hartmanis:65}
+Hartmanis, Juris and Stearns, Richard E.
+\newblock On the computational complexity of algorithms.
+\newblock Transactions of the American Mathematical Society, 117: 285--306, 1965.
+
+\bibitem{hartmanis:74}
+Hartmanis, J and Hunt, HB.
+\newblock The {LBA} Problem and its Importance in the Theory of Computing.
+\newblock American Mathematical Society, Providence, RI, 1974.
+
+\bibitem{hartmanis:76}
+Hartmanis, Juris and Berman, Leonard.
+\newblock On isomorphisms and density of NP and other complete sets.
+\newblock Proceedings of the eighth annual ACM symposium on Theory of computing: 30--40, 1976.
+
+\bibitem{hartmanis:80}
+Hartmanis, Juris and Mahaney, Stephen R.
+\newblock An essay about research on sparse NP complete sets.
+\newblock International Symposium on Mathematical Foundations of Computer Science: 40--57, 1980.
+
+\bibitem{hartmanis:80b}
+Hartmanis, Juris and Mahaney, Stephen R.
+\newblock On Census Complexity and Sparseness of NP Complete Sets.
+\newblock , 1980.
+
+\bibitem{hartmanis:90}
+Hartmanis, Juris.
+\newblock New developments in structural complexity theory.
+\newblock Theoretical Computer Science, 71(1): 79--93, 1990.
+
+\bibitem{hartmanis:90b}
+  author="Hartmanis, Juris and Chang, Richard and Ranjan, Desh and Rohatgi, Pankaj".
+\newblock   title="Structural complexity theory: Recent surprises".
+\newblock   booktitle="SWAT 90":   pages="1--12,   year="1990".
+
+\bibitem{hemachandra:88}
+Hemachandra, Lane A and Wechsung, Gerd.
+\newblock On the Power of Probabilistic Polynomial Time: $P^{NP[\log]}\subseteq PP$.
+\newblock , 1988.
+
+\bibitem{hennie:66}
+Hennie, Fred C and Stearns, Richard Edwin.
+\newblock Two-tape simulation of multitape {T}uring machines.
+\newblock Journal of the ACM (JACM), 13(4): 533--546, 1966.
+
+\bibitem{immerman:88}
+Immerman, Neil.
+\newblock Nondeterministic space is closed under complementation.
+\newblock SIAM Journal on computing, 17(5): 935--938, 1988.
+
+\bibitem{impagliazzo:89}
+Impagliazzo, Russell and Zuckerman, David.
+\newblock How to recycle random bits.
+\newblock FOCS: 248--253, 1989.
+
+\bibitem{kadin:88}
+Kadin, Jim.
+\newblock Restricted {T}uring reducibilities and the structure of the polynomial time hierarchy.
+\newblock Cornell University, 1988.
+
+\bibitem{kadin:88b}
+Kadin, J.
+\newblock The polynomial hierarchy collapses if the Boolean hierarchy collapses.
+\newblock SIAM J. Comput, 17(6): 1263--1282,   year = 198.
+
+\bibitem{kalmar:43}
+L{\'a}szl{\'o}, Kalm{\'a}r.
+\newblock Egyszer{\H{u}} p{\'e}lda eld{\"o}nthetetlen aritmetikai probl{\'e}m{\'a}ra.
+\newblock Franklin, 1943.
+
+\bibitem{kannan:82}
+Kannan, Ravi.
+\newblock Circuit-size lower bounds and non-reducibility to sparse sets.
+\newblock Information and control, 55(1-3): 40--56, 1982.
+
+\bibitem{karp:80}
+Karp, Richard M and Lipton, Richard J.
+\newblock Some connections between nonuniform and uniform complexity classes.
+\newblock Proceedings of the twelfth annual ACM symposium on Theory of computing: 302--309, 1980.
+
+\bibitem{kintala:77}
+Kintala, Chandra MR.
+\newblock Computations with a restricted number of nondeterministic steps.
+\newblock Pennsylvania State University, 1977.
+
+\bibitem{kintala:77b}
+Kintala, Chandra MR and Fischer, Patrick C.
+\newblock Computations with a restricted number of nondeterministic steps.
+\newblock Proceedings of the ninth annual ACM symposium on Theory of computing: 178--185, 1977.
+
+\bibitem{kintala:80}
+Kintala, Chandra MR and Fischer, Patrick C.
+\newblock Refining nondeterminism in relativized polynomial-time bounded computations.
+\newblock SIAM Journal on Computing, 9(1): 46--53, 1980.
+
+\bibitem{kobler:85}
+K{\"o}bler, J.
+\newblock Unterschung verschiedener polynomieller Reduktionsklassen von NP, Diplom.
+\newblock Institut f{\"u}r Informatik, Universität Stuttgart, 1985.
+
+\bibitem{kolmogorov:65}
+Kolmogorov, Andrei N.
+\newblock Three approaches to the quantitative definition ofinformation’.
+\newblock Problems of information transmission, 1(1): 1--7, 1965.
+
+\bibitem{kolmogorov:68}
+Kolmogorov, Andrei.
+\newblock Logical basis for information theory and probability theory.
+\newblock IEEE Transactions on Information Theory, 14(5): 662--664, 1968.
+
+\bibitem{kozen:81}
+Chandra, Ashok K and Kozen, Dexter C and Stockmeyer, Larry J.
+\newblock Alternation.
+\newblock Journal of the ACM, 28(1): 114--133, 1981.
+
+\bibitem{krentel:86}
+Krentel, Mark W.
+\newblock The complexity of optimization problems.
+\newblock Proceedings of the eighteenth annual ACM symposium on Theory of computing: 69--76, 1986.
+
+\bibitem{kurtz:83}
+Stuart A. Kurtz.
+\newblock On the random oracle hypothesis.
+\newblock Information and Control, 57(1): 40-47, 1983.
+
+\bibitem{ladner:75}
+Ladner, Richard E.
+\newblock On the structure of polynomial time reducibility.
+\newblock Journal of the ACM (JACM), 22(1): 155--171, 1975.
+
+\bibitem{landweber:78}
+Landweber, Lawrence and Lipton, Richard and Robertson, Edward.
+\newblock On the structure of sets in NP and other complexity classes.
+\newblock , 1978.
+
+\bibitem{lange:87}
+Lange, Klaus-J{\"o}rn and Jenner, Birgit and Kirsig, Bernd.
+\newblock The logarithmic alternation hierarchy collapses: A$\Sigma_2^L$ = A$\Pi_2^L$.
+\newblock International Colloquium on Automata, Languages, and Programming: 531--541, 1987.
+
+\bibitem{laplante:06}
+  author="Laplante, Sophie".
+\newblock   title="Lower Bounds Using Kolmogorov Complexity".
+\newblock   booktitle="Logical Approaches to Computational Barriers",   year="2006".
+
+\bibitem{lautemann:83}
+Lautemann, Clemens.
+\newblock {BPP} and the polynomial hierarchy.
+\newblock Information Processing Letters, 17(4): 215--217, 1983.
+
+\bibitem{leeuw:56}
+De Leeuw, Karel and Moore, Edward F and Shannon, Claude E and Shapiro, Norman.
+\newblock Computability by probabilistic machines.
+\newblock Automata studies, 34: 183--198, 1956.
+
+\bibitem{levin:73}
+Levin, Leonid Anatolevich.
+\newblock Universal sequential search problems.
+\newblock Problemy peredachi informatsii, 9(3): 115--116, 1973.
+
+\bibitem{li:97}
+Li, Ming and Vit{\'a}nyi, Paul.
+\newblock An introduction to {K}olmogorov complexity and its applications.
+\newblock Springer, 1997.
+
+\bibitem{luks:82}
+Luks, Eugene M.
+\newblock Isomorphism of graphs of bounded valence can be tested in polynomial time.
+\newblock Journal of computer and system sciences, 25(1): 42--65, 1982.
+
+\bibitem{mahaney:82}
+Mahaney, Stephen R.
+\newblock Sparse complete sets for NP: Solution of a conjecture of Berman and Hartmanis.
+\newblock Journal of Computer and System Sciences, 25(2): 130--143, 1982.
+
+\bibitem{meyer:72}
+Meyer, Albert R and Stockmeyer, Larry J.
+\newblock The equivalence problem for regular expressions with squaring requires exponential space.
+\newblock SWAT: 125--129, 1972.
+
+\bibitem{miller:75}
+G. L. Miller.
+\newblock Riemann's hypothesis and tests for primality.
+\newblock Berkeley, 1975.
+
+\bibitem{miller:76}
+G. L. Miller.
+\newblock Riemann's hypothesis and tests for primality.
+\newblock Journal of Computer and Systems Science, 13: 300--317, 1976.
+
+\bibitem{minsky:62}
+Minsky, Marvin L.
+\newblock Problems of formulation for artificial intelligence.
+\newblock Proceedings of a Symposium on Mathematical Problems in Biology: 35--46, 1962.
+
+\bibitem{morgan:65}
+Morgan, Harry L.
+\newblock The generation of a unique machine description for chemical structures-a technique developed at chemical abstracts service..
+\newblock Journal of chemical documentation, 5(2): 107--113, 1965.
+
+\bibitem{neary:06}
+Neary, Turlough and Woods, Damien.
+\newblock Small fast universal Turing machines.
+\newblock Theoretical Computer Science, 362(1-3): 171--195, 2006.
+
+\bibitem{papadimitriou:82}
+Papadimitriou, Christos H and Yannakakis, Mihalis.
+\newblock The complexity of facets (and some facets of complexity).
+\newblock Proceedings of the fourteenth annual ACM symposium on Theory of computing: 255--260, 1982.
+
+\bibitem{papadimitriou:82a}
+Papadimitriou, Christos and Zachos, Stathis.
+\newblock Two remarks on the power of counting.
+\newblock Proceedings of the 6th GI conference on theoretical computer science: 269--276, 1982.
+
+\bibitem{pippenger:79}
+Pippenger, Nicholas.
+\newblock On simultaneous resource bounds.
+\newblock 20th Annual Symposium on Foundations of Computer Science (sfcs 1979): 307--311, 1979.
+
+\bibitem{post:44}
+Post, Emil L.
+\newblock Recursively enumerable sets of positive integers and their decision problems.
+\newblock World Scientific, 1944.
+
+\bibitem{rabin:59}
+Rabin, Michael Oser.
+\newblock Speed of computation and classification of recursive sets.
+\newblock Third Convention Science Society: 1--2, 1959.
+
+\bibitem{rabin:59b}
+Rabin, Michael O and Scott, Dana.
+\newblock Finite automata and their decision problems.
+\newblock IBM journal of research and development, 3(2): 114--125, 1959.
+
+\bibitem{rabin:60}
+Rabin, Michael Oser.
+\newblock Degree of difficulty of computing a function and a partial ordering of recursive sets.
+\newblock Technical Report 2, 1960.
+
+\bibitem{rabin:80}
+Michael O. Rabin.
+\newblock Probabilistic algorithm for testing primality.
+\newblock Journal of Number Theory, 12(1): 128-138, 1980.
+
+\bibitem{razborov:85}
+Razborov, Alexander A.
+\newblock Lower bounds for the monotone complexity of some Boolean functions.
+\newblock Soviet Math. Dokl.: 354--357, 1985.
+
+\bibitem{razborov:85b}
+Alexander A. Razborov.
+\newblock Lower bounds on monotone complexity of the logical permanent.
+\newblock Mathematical notes of the Academy of Sciences of the USSR, 37: 485-493, 1985.
+
+\bibitem{razborov:94}
+Razborov, Alexander A and Rudich, Steven.
+\newblock Natural proofs.
+\newblock Proceedings of the twenty-sixth annual ACM symposium on Theory of computing: 204--213, 1994.
+
+\bibitem{ritchie:63}
+Ritchie, Robert W.
+\newblock Classes of predictably computable functions.
+\newblock Transactions of the American Mathematical Society, 106(1): 139--173, 1963.
+
+\bibitem{russo:85}
+Russo, David Allen.
+\newblock Structural properties of complexity classes.
+\newblock University of California, 1985.
+
+\bibitem{savitch:70}
+Savitch, Walter J.
+\newblock Relationships between nondeterministic and deterministic tape complexities.
+\newblock Journal of computer and system sciences, 4(2): 177--192, 1970.
+
+\bibitem{schaefer:02}
+Schaefer, Marcus and Umans, Christopher.
+\newblock Completeness in the polynomial-time hierarchy: A compendium.
+\newblock SIGACT news, 33(3): 32--49, 2002.
+
+\bibitem{schnorr:76}
+Schnorr, Claus-Peter.
+\newblock The network complexity and the Turing machine complexity of finite functions.
+\newblock Acta Informatica, 7: 95--107, 1976.
+
+\bibitem{schoning:82}
+Sch{\"o}ning, Uwe.
+\newblock A uniform approach to obtain diagonal sets in complexity classes.
+\newblock Theoretical Computer Science, 18(1): 95--103, 1982.
+
+\bibitem{schoning:89}
+Sch{\"o}ning, Uwe.
+\newblock Probabilistic complexity classes and lowness.
+\newblock Journal of Computer and System Sciences, 39(1): 84--100, 1989.
+
+\bibitem{selman:79}
+Selman, Alan L.
+\newblock P-selective sets, tally languages, and the behavior of polynomial time reducibilities on NP.
+\newblock International Colloquium on Automata, Languages, and Programming: 546--555, 1979.
+
+\bibitem{selman:88}
+Alan L. Selman.
+\newblock Complexity Theory Retrospective: In Honor of Juris Hartmanis on the Occasion of His Sixtieth Birthday, July 5, 1988.
+\newblock Springer, 1990.
+
+\bibitem{shamir:92}
+Shamir, Adi.
+\newblock Ip= pspace.
+\newblock Journal of the ACM (JACM), 39(4): 869--877, 1992.
+
+\bibitem{simon:75}
+Simon, Janos.
+\newblock On some central problems in computational complexity.
+\newblock Cornell University, 1975.
+
+\bibitem{sipser:83}
+Sipser, Michael.
+\newblock A complexity theoretic approach to randomness.
+\newblock Proceedings of the fifteenth annual ACM symposium on Theory of computing: 330--335, 1983.
+
+\bibitem{solovay:77}
+Solovay, Robert and Strassen, Volker.
+\newblock A fast Monte-Carlo test for primality.
+\newblock SIAM journal on Computing, 6(1): 84--85, 1977.
+
+\bibitem{stearns:65}
+Stearns, Richard Edwin and Hartmanis, Juris and Lewis, Philip M.
+\newblock Hierarchies of memory limited computations.
+\newblock 6th annual symposium on switching circuit theory and logical design (SWCT 1965): 179--190, 1965.
+
+\bibitem{stearns:90}
+Stearns, Richard E.
+\newblock Juris Hartmanis: the beginnings of computational complexity.
+\newblock Complexity Theory Retrospective: In Honor of Juris Hartmanis on the Occasion of His Sixtieth Birthday, July 5, 1988: 5--18, 1990.
+
+\bibitem{stockmeyer:73}
+Stockmeyer, Larry J and Meyer, Albert R.
+\newblock Word problems requiring exponential time.
+\newblock Proceedings of the fifth annual ACM symposium on Theory of computing: 1--9, 1973.
+
+\bibitem{stockmeyer:77}
+Stockmeyer, Larry J.
+\newblock The polynomial-time hierarchy.
+\newblock Theoretical Computer Science, 3(1): 1--22, 1976.
+
+\bibitem{szelepcsenyi:88}
+Szelepcs{\'e}nyi, R{\'o}bert.
+\newblock The method of forced enumeration for nondeterministic automata.
+\newblock Acta Informatica, 26(3): 279--284, 1988.
+
+\bibitem{tardos:88}
+Tardos, {\'E}va.
+\newblock The gap between monotone and non-monotone circuit complexity is exponential.
+\newblock Combinatorica, 8: 141--142, 1988.
+
+\bibitem{toda:87}
+Toda, Seinosuke.
+\newblock {$\Sigma_2$SPACE(n)} is closed under complement.
+\newblock Journal of Computer and System Sciences, 35(2): 145--152, 1987.
+
+\bibitem{toda:89}
+Toda, Seinosuke.
+\newblock On the computational power of PP and $\oplus$P.
+\newblock 30th Annual Symposium on Foundations of Computer Science: 514--519, 1989.
+
+\bibitem{trakhtenbrot:64}
+Boris Trakhtenbrot.
+\newblock {T}uring computations with logarithmic delay.
+\newblock Algebra and Logic, 3(4): 33--48, 1968.
+
+\bibitem{trakhtenbrot:84}
+Trakhtenbrot, Boris A.
+\newblock A survey of Russian approaches to perebor (brute-force searches) algorithms.
+\newblock Annals of the History of Computing, 6(4): 384--400, 1984.
+
+\bibitem{turing:39}
+{T}uring, Alan Mathison.
+\newblock Systems of logic based on ordinals.
+\newblock Proceedings of the London Mathematical Society, Series 2, 45: 161--228, 1939.
+
+\bibitem{valiant:74}
+Valiant, LG.
+\newblock A polynomial reduction of satisfiability to Hamiltonian circuits that preserves the number of solutions.
+\newblock Univ. of Leeds, (A polynomial reduction of satisfiability to Hamiltonian circuits that preserves the number of solutions): , 1974.
+
+\bibitem{valiant:79}
+Valiant, Leslie G.
+\newblock The complexity of computing the permanent.
+\newblock Theoretical computer science, 8(2): 189--201, 1979.
+
+\bibitem{valiant:85}
+Valiant, Leslie G and Vazirani, Vijay V.
+\newblock NP is as easy as detecting unique solutions.
+\newblock Proceedings of the seventeenth annual ACM symposium on Theory of computing: 458--463, 1985.
+
+\bibitem{vinodchandran:05}
+Vinodchandran, N Variyam.
+\newblock A note on the circuit complexity of PP.
+\newblock Theoretical Computer Science, 347(1-2): 415--418, 2005.
+
+\bibitem{vishkin:83}
+Vishkin, Uzi.
+\newblock Synchronous parallel computation - {A} survey.
+\newblock Courant Institute of Mathematical Sciences, New York University, 1983.
+
+\bibitem{wagner:85}
+Wagner, K and Wechsung, Gerd.
+\newblock On the Boolean closure of NP.
+\newblock Proceedings of the 1985 International Conference on Fundamentals of Computation Theory: 485--493, 1985.
+
+\bibitem{wilson:87}
+Wilson, Christopher B.
+\newblock Relativized {NC}.
+\newblock Mathematical Systems Theory, 20: 13--29, 1987.
+
+\bibitem{wrathall:76}
+Wrathall, Celia.
+\newblock Complete sets and the polynomial-time hierarchy.
+\newblock Theoretical Computer Science, 3(1): 23--33, 1976.
+
+\bibitem{xu:83}
+Mei-Rui, Xu and Doner, John E and Book, Ronald V.
+\newblock Refining nondeterminism in relativizations of complexity classes.
+\newblock Journal of the ACM (JACM), 30(3): 677--685, 1983.
+
+\bibitem{yamada:62}
+Yamada, Hisao.
+\newblock Real-time computation and recursive functions not real-time computable.
+\newblock IRE Transactions on Electronic Computers, 11(6): 753--760, 1962.
+
+\bibitem{yap:83}
+Yap, Chee K.
+\newblock Some consequences of non-uniform conditions on uniform classes.
+\newblock Theoretical computer science, 26(3): 287--300, 1983.
+
+\bibitem{zachos:88}
+Zachos, Stathis.
+\newblock Probabilistic quantifiers and games.
+\newblock Journal of Computer and System Sciences, 36(3): 433--451, 1988.
+

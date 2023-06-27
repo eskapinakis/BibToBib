@@ -1,0 +1,3674 @@
+% #############################################################################
+% This is References
+% !TEX root = ../Main.tex
+% #############################################################################
+
+
+@inproceedings{oitavem:01,
+  title={Implicit characterizations of pspace},
+  author={Oitavem, Isabel},
+  booktitle={International Seminar on Proof Theory in Computer Science},
+  pages={170--190},
+  year={2001},
+  organization={Springer}
+}
+
+
+@article{oitavem:97,
+  title={New recursive characterizations of the elementary functions and the functions computable in polynomial space},
+  author={Oitavem, Isabel},
+  journal={Revista Matem{\'a}tica de la universidad complutense de Madrid},
+  volume={10},
+  number={1},
+  pages={109--125},
+  year={1997}
+}
+
+
+@article{oitavem:04,
+  title={Characterizing {NC} with tier 0 pointers},
+  author={Oitavem, Isabel},
+  journal={Mathematical Logic Quarterly},
+  volume={50},
+  number={1},
+  pages={9--17},
+  year={2004},
+  publisher={Wiley Online Library}
+}
+
+
+@article{oitavem:08,
+  title={Characterizing {PSPACE} with pointers},
+  author={Oitavem, Isabel},
+  journal={Mathematical Logic Quarterly},
+  volume={54},
+  number={3},
+  pages={323--329},
+  year={2008},
+  publisher={Wiley Online Library}
+}
+
+@article{levin:86,
+  title={Average case complete problems},
+  author={Levin, Leonid A},
+  journal={SIAM Journal on Computing},
+  volume={15},
+  number={1},
+  pages={285--286},
+  year={1986},
+  publisher={SIAM}
+}
+
+@article{hennie:66,
+  title={Two-tape simulation of multitape {T}uring machines},
+  author={Hennie, Fred C and Stearns, Richard Edwin},
+  journal={Journal of the ACM (JACM)},
+  volume={13},
+  number={4},
+  pages={533--546},
+  year={1966},
+  publisher={ACM New York, NY, USA}
+}
+
+
+@inproceedings{bellantoni:92,
+  title={A new recursion-theoretic characterization of the polytime functions},
+  author={Bellantoni, Stephen and Cook, Stephen},
+  booktitle={Proceedings of the twenty-fourth annual ACM symposium on Theory of computing},
+  pages={283--293},
+  year={1992}
+}
+
+@inproceedings{buhrman:03,
+  title={One bit of advice},
+  author={Buhrman, Harry and Chang, Richard and Fortnow, Lance},
+  booktitle={STACS 2003: 20th Annual Symposium on Theoretical Aspects of Computer Science Berlin, Germany, February 27--March 1, 2003 Proceedings 20},
+  pages={547--558},
+  year={2003},
+  organization={Springer}
+}
+
+
+@inproceedings{cobham:64,
+  title={The intrinsic computational difficulty of functions},
+  author={Cobham, Alan},
+  booktitle={International Congress for Logic, Methodology, and the Philosophy of Science},
+  pages={24--40},
+  year={1964}
+}
+
+
+@inproceedings{immerman:83,
+  title={Languages which capture complexity classes},
+  author={Immerman, Neil},
+  booktitle={Proceedings of the fifteenth annual ACM symposium on Theory of computing},
+  pages={347--354},
+  year={1983}
+}
+
+
+@inproceedings{leivant:91,
+  title={A foundational delineation of computational feasibility},
+  author={Leivant, Daniel},
+  booktitle={Proceedings 1991 Sixth Annual IEEE Symposium on Logic in Computer Science},
+  pages={2--3},
+  year={1991},
+  organization={IEEE Computer Society}
+}
+
+
+@article{beckmann:96,
+  title={A term rewriting characterization of the polytime functions and related complexity classes},
+  author={Beckmann, Arnold and Weiermann, Andreas},
+  journal={Archive for Mathematical Logic},
+  volume={36},
+  number={1},
+  pages={11--30},
+  year={1996}
+}
+
+@article{kozen:81,
+  title={Alternation},
+  author={Chandra, Ashok K and Kozen, Dexter C and Stockmeyer, Larry J},
+  journal={Journal of the ACM},
+  volume={28},
+  number={1},
+  pages={114--133},
+  year={1981},
+  publisher={ACM New York, NY, USA}
+}
+
+
+@inproceedings{ashok:76,
+  author={Chandra, Ashok K. and Stockmeyer, Larry J.},
+  booktitle={17th Annual Symposium on Foundations of Computer Science}, 
+  title={Alternation}, 
+  year={1976},
+  pages={98-108},
+  organization={IEEE}
+ }
+ 
+@inproceedings{kozen:76,
+  title={On parallelism in {T}uring machines},
+  author={Kozen, Dexter},
+  booktitle={17th Annual Symposium on Foundations of Computer Science},
+  pages={89--97},
+  year={1976},
+  organization={IEEE}
+}
+
+@article{cichon:97,
+  title={Term rewriting theory for the primitive recursive functions},
+  author={Cichon, E.A. and Weiermann, Andreas},
+  journal={Annals of pure and applied logic},
+  volume={83},
+  number={3},
+  pages={199--223},
+  year={1997},
+  publisher={Elsevier}
+}
+
+@incollection{dershowitz:90,
+  title={Rewrite systems},
+  author={Dershowitz, Nachum and Jouannaud, Jean-Pierre},
+  booktitle={Formal models and semantics},
+  pages={243--320},
+  year={1990},
+  publisher={Elsevier}
+}
+
+@article{hofbauer:92,
+  title={Termination proofs by multiset path orderings imply primitive recursive derivation lengths},
+  author={Hofbauer, Dieter},
+  journal={Theoretical Computer Science},
+  volume={105},
+  number={1},
+  pages={129--140},
+  year={1992},
+  publisher={Elsevier}
+}
+
+
+@inproceedings{eguchi:10,
+  title={A term-rewriting characterization of PSPACE},
+  author={Eguchi, Naohi},
+  booktitle={Proceedings Of The 10th Asian Logic Conference},
+  pages={93--112},
+  year={2010},
+  organization={World Scientific}
+}
+
+@article{oitavem:02,
+  title={A term rewriting characterization of the functions computable in polynomial space},
+  author={Oitavem, Isabel},
+  journal={Archive for Mathematical Logic},
+  volume={41},
+  number={1},
+  pages={35--47},
+  year={2002},
+  publisher={Springer}
+}
+
+@inproceedings{bonfante:01,
+  title={On lexicographic termination ordering with space bound certifications},
+  author={Bonfante, Guillaume and Marion, Jean-Yves and Moyen, Jean-Yves},
+  booktitle={International Andrei Ershov Memorial Conference on Perspectives of System Informatics},
+  pages={482--493},
+  year={2001},
+  organization={Springer}
+}
+
+@book{ohlebusch:02,
+  title={Advanced topics in term rewriting},
+  author={Ohlebusch, Enno},
+  year={2002},
+  publisher={Springer Science \& Business Media}
+}
+
+@book{terese:03,
+  title={Term rewriting systems},
+  author={Bezem, Marc and Klop, JW and de Vrijer, Roel},
+  year={2003},
+  publisher={Cambridge University Press}
+}
+
+@techreport{lankford:75,
+  title={Canonical algebraic simplification in computational logic},
+  author={Lankford, Dallas},
+  year={1975},
+  institution={Department of Mathematics, University of Texas}
+}
+
+@article{lankford:79,
+  title={On proving term rewriting systems are Noetherian},
+  author={Lankford, Dallas S},
+  journal={Memo MTP-3},
+  year={1979},
+  publisher={Department of Mathematics, Louisiana Technical University}
+}
+
+@inproceedings{manna:70,
+  title={On the termination of Markov algorithms},
+  author={Manna, Zohar and Ness, Steven},
+  booktitle={Proceedings of the Third Hawaii International Conference on System Science},
+  pages={789--792},
+  year={1970}
+}
+
+@article{beckmann:95,
+  title={Investigations on subrecursion via logic programming},
+  author={Beckmann, A and Weiermann, A},
+  journal={Preprint, M{\"u}nster},
+  year={1995}
+}
+
+
+@book{pohlers:09,
+  title={Proof theory: An introduction},
+  author={Pohlers, Wolfram},
+  volume={1407},
+  year={2009},
+  publisher={Springer}
+}
+
+@book{buss:85,
+  title={Bounded arithmetic},
+  author={Buss, Samuel R},
+  year={1985},
+  publisher={Princeton University}
+}
+
+@phdthesis{beckmann:96b,
+  title={Separating fragments of bounded arithmetic},
+  author={Beckmann, Arnold},
+  year={1996},
+  school={Westfälische Wilhelms-Universität Münster}
+}
+
+@book{du:11,
+  title={Theory of computational complexity},
+  author={Du, Ding-Zhu and Ko, Ker-I},
+  volume={58},
+  year={2011},
+  publisher={John Wiley \& Sons}
+}
+
+@book{lassaigne:04,
+  title={Logic and complexity},
+  author={Lassaigne, Richard and De Rougemont, Michel},
+  year={2004},
+  publisher={Springer Science \& Business Media}
+}
+
+@article{cichon:92,
+  title={Termination proofs and complexity characterisations},
+  author={Cichon, EA},
+  journal={Proof Theory, Eds. P. Aczel, H. Simmons, S. Wainer, Cambridge},
+  pages={173--193},
+  year={1992}
+}
+
+@article{weiermann:95,
+  title={Rewriting theory for the Hydra battle and the extended Grzegorczyk hierarchy},
+  author={Weiermann, Andreas},
+  journal={Preprint, Nancy and M{\"u}nster},
+  year={1995}
+}
+
+@article{savitch:70,
+  title={Relationships between nondeterministic and deterministic tape complexities},
+  author={Savitch, Walter J},
+  journal={Journal of computer and system sciences},
+  volume={4},
+  number={2},
+  pages={177--192},
+  year={1970},
+  publisher={Elsevier}
+}
+
+@inproceedings{leivant:94,
+  title={Ramified recurrence and computational complexity II: substitution and poly-space},
+  author={Leivant, Daniel and Marion, Jean-Yves},
+  booktitle={International Workshop on Computer Science Logic},
+  pages={486--500},
+  year={1994},
+  organization={Springer}
+}
+
+
+
+@article{thompson:72,
+  title={Subrecursiveness: Machine-independent notions of computability in restricted time and storage},
+  author={Thompson, David B},
+  journal={Mathematical Systems Theory},
+  volume={6},
+  number={1},
+  pages={3--15},
+  year={1972},
+  publisher={Springer}
+}
+
+@book{immerman:12,
+  title={Descriptive complexity},
+  author={Immerman, Neil},
+  year={2012},
+  publisher={Springer Science \& Business Media}
+}
+
+@inproceedings{moyen:00,
+  title={Efficient first order functional program interpreter with time bound certifications},
+  author={Jean-Yves, Marion and Moyen, J-Y},
+  booktitle={International Conference on Logic for Programming Artificial Intelligence and Reasoning},
+  pages={25--42},
+  year={2000},
+  organization={Springer}
+}
+
+@article{weiermann:95b,
+  title={Termination proofs for term rewriting systems by lexicographic path orderings imply multiply recursive derivation lengths},
+  author={Weiermann, Andreas},
+  journal={Theoretical Computer Science},
+  volume={139},
+  number={1-2},
+  pages={355--362},
+  year={1995},
+  publisher={Elsevier}
+}
+
+@article{sundholm:83,
+  title={Systems of deduction},
+  author={Sundholm, G{\"o}ran},
+  journal={Handbook of Philosophical Logic: Volume I: Elements of Classical Logic},
+  pages={133--188},
+  year={1983},
+  publisher={Springer}
+}
+
+@article{simmons:88,
+  title={The realm of primitive recursion},
+  author={Simmons, Harold},
+  journal={Archive for Mathematical Logic},
+  volume={27},
+  number={2},
+  pages={177--188},
+  year={1988},
+  publisher={Springer}
+}
+
+@techreport{kamin:80,
+  title={Attempts for generalizing the recursive path orderings},
+  author={Kamin, Samuel and Lévy, J-J},
+  institution={Department of Computer Science, University of Illinois},
+  year={1980}
+}
+
+@inproceedings{bonfante:98,
+  title={Complexity classes and rewrite systems with polynomial interpretation},
+  author={Bonfante, Guillaume and Cichon, Adam and Marion, Jean-Yves and Touzet, H{\'e}l{\`e}ne},
+  booktitle={International Workshop on Computer Science Logic},
+  pages={372--384},
+  year={1998},
+  organization={Springer}
+}
+
+@inproceedings{hofbauer:89,
+  title={Termination proofs and the length of derivations},
+  author={Hofbauer, Dieter and Lautemann, Clemens},
+  booktitle={International Conference on Rewriting Techniques and Applications},
+  pages={167--177},
+  year={1989},
+  organization={Springer}
+}
+
+@article{dershowitz:87,
+  title={Termination of rewriting},
+  author={Dershowitz, Nachum},
+  journal={Journal of symbolic computation},
+  volume={3},
+  number={1-2},
+  pages={69--115},
+  year={1987},
+  publisher={Elsevier}
+}
+
+@inproceedings{cichon:92b,
+  title={Polynomial interpretations and the complexity of algorithms},
+  author={Cichon, Adam and Lescanne, Pierre},
+  booktitle={International Conference on Automated Deduction},
+  pages={139--147},
+  year={1992},
+  organization={Springer}
+}
+
+
+@article{bonfante:11,
+  title={Quasi-interpretations a way to control resources},
+  author={Bonfante, Guillaume and Marion, J-Y and Moyen, J-Y},
+  journal={Theoretical computer science},
+  volume={412},
+  number={25},
+  pages={2776--2796},
+  year={2011},
+  publisher={Elsevier}
+}
+
+
+@inproceedings{marion:06,
+  title={Resource analysis by sup-interpretation},
+  author={Marion, Jean-Yves and P{\'e}choux, Romain},
+  booktitle={International Symposium on Functional and Logic Programming},
+  pages={163--176},
+  year={2006},
+  organization={Springer}
+}
+
+@article{marion:03,
+  title={Analysing the implicit complexity of programs},
+  author={Marion, Jean-Yves},
+  journal={Information and Computation},
+  volume={183},
+  number={1},
+  pages={2--18},
+  year={2003},
+  publisher={Elsevier}
+}
+
+@article{dershowitz:82,
+  title={Orderings for term-rewriting systems},
+  author={Dershowitz, Nachum},
+  journal={Theoretical computer science},
+  volume={17},
+  number={3},
+  pages={279--301},
+  year={1982},
+  publisher={Elsevier}
+}
+
+
+@techreport{plaisted:78,
+  author      = "David Plaisted",
+  title       = "A recursively defined ordering for proving termination of term rewriting systems",
+  institution = "Department of Computer Science, University of Illinois",
+  year        = "1978"
+}
+
+@inbook{cichon:93,
+ title={Termination orderings and complexity characterisations},
+ booktitle={Proof Theory: A selection of papers from the Leeds Proof Theory Programme 1990},  publisher={Cambridge University Press}, 
+ author={Cichon, E.A.}, 
+ year={1993}, 
+ pages={171–194}
+}
+
+@article{steel:82,
+  title={A classification of jump operators},
+  author={Steel, John R},
+  journal={The Journal of Symbolic Logic},
+  volume={47},
+  number={2},
+  pages={347--358},
+  year={1982},
+  publisher={Cambridge University Press}
+}
+
+@article{downey:97,
+  title={There is no degree invariant half-jump},
+  author={Downey, Rodney and Shore, Richard},
+  journal={Proceedings of the American Mathematical Society},
+  volume={125},
+  number={10},
+  pages={3033--3037},
+  year={1997}
+}
+
+@article{sacks:67,
+  title={On a theorem of Lachlan and Martin},
+  author={Sacks, Gerald E},
+  journal={Proceedings of the American Mathematical Society},
+  volume={18},
+  number={1},
+  pages={140--141},
+  year={1967}
+}
+
+
+@article{lachlan:75,
+  title={Uniform enumeration operations},
+  author={Lachlan, Alistair H.},
+  journal={The Journal of Symbolic Logic},
+  volume={40},
+  number={3},
+  pages={401--409},
+  year={1975},
+  publisher={Cambridge University Press}
+}
+
+@article{aaronson:09,
+  title={Algebrization: A new barrier in complexity theory},
+  author={Aaronson, Scott and Wigderson, Avi},
+  journal={ACM Transactions on Computation Theory (TOCT)},
+  volume={1},
+  number={1},
+  pages={1--54},
+  year={2009},
+  publisher={ACM New York, NY, USA}
+}
+
+@inproceedings{babai:90,
+  title={E-mail and the unexpected power of interaction},
+  author={Babai, L{\'a}szl{\'o}},
+  booktitle={Proceedings Fifth Annual Structure in Complexity Theory Conference},
+  pages={30--44},
+  year={1990},
+  organization={IEEE}
+}
+
+@techreport{chang:89,
+  title={An example of a theorem that has contradictory relativizations and a diagonalization proof},
+  author={Chang, Richard},
+  year={1989},
+  institution={Cornell University}
+}
+
+@inproceedings{goldwasser:86,
+  title={Private coins versus public coins in interactive proof systems},
+  author={Goldwasser, Shafi and Sipser, Michael},
+  booktitle={Proceedings of the eighteenth annual ACM symposium on Theory of computing},
+  pages={59--68},
+  year={1986}
+}
+
+@inproceedings{goldwasser:85,
+  title={The knowledge complexity of interactive proof systems},
+  author={Goldwasser, S and Micali, S and Rackoff, C},
+  booktitle={Proceedings of the 17th ACM Symposium on Theory of Computing},
+  volume={10},
+  pages={291--304},
+  year={1985}
+}
+
+@inproceedings{blum:86,
+  title={How to prove a theorem so no one else can claim it},
+  author={Blum, Manuel},
+  booktitle={Proceedings of the International Congress of Mathematicians},
+  volume={1},
+  pages={2},
+  year={1986},
+  organization={Citeseer}
+}
+
+@article{neary:06,
+  title={Small fast universal Turing machines},
+  author={Neary, Turlough and Woods, Damien},
+  journal={Theoretical Computer Science},
+  volume={362},
+  number={1-3},
+  pages={171--195},
+  year={2006},
+  publisher={Elsevier}
+}
+
+@book{balcazar:90,
+  title={Structural complexity II},
+  author={Balc{\'a}zar, Jos{\'e} L and D{\'\i}az, Josep and Gabarr{\'o}, Joaquim},
+  year={1990},
+  publisher={Springer Science \& Business Media}
+}
+
+@book{balcazar:88,
+  title={Structural complexity},
+  author={Balc{\'a}zar, Jos{\'e} L and D{\'\i}az, Josep and Gabarr{\'o}, Joaquim},
+  year={1988},
+  publisher={Springer Science \& Business Media}
+}
+
+@article{turing:36,
+  title={On computable numbers, with an application to the {E}ntscheidungsproblem},
+  author={{T}uring, Alan},
+  journal={J. of Math},
+  volume={58},
+  number={345-363},
+  pages={5},
+  year={1936}
+}
+
+@article{turing:38,
+  title={On computable numbers, with an application to the Entscheidungsproblem. {A} correction},
+  author={{T}uring, Alan},
+  journal={Proceedings of the London Mathematical Society},
+  volume={2},
+  number={1},
+  pages={544--546},
+  year={1938},
+  publisher={Oxford Academic}
+}
+
+@book{selman:88,
+   title =     {Complexity Theory Retrospective: In Honor of Juris Hartmanis on the Occasion of His Sixtieth Birthday, July 5, 1988},
+   author =    {Alan L. Selman},
+   publisher = {Springer},
+   year =      {1990}
+}
+
+@article{yamada:62,
+  title={Real-time computation and recursive functions not real-time computable},
+  author={Yamada, Hisao},
+  journal={IRE Transactions on Electronic Computers},
+  number={6},
+  pages={753--760},
+  year={1962},
+  volume = {11},
+  publisher={IEEE}
+}
+
+@article{hartmanis:65,
+  title={On the computational complexity of algorithms},
+  author={Hartmanis, Juris and Stearns, Richard E},
+  journal={Transactions of the American Mathematical Society},
+  volume={117},
+  pages={285--306},
+  year={1965},
+  publisher={JSTOR}
+}
+
+
+@techreport{kobay:81,
+ author               = {K. Kobayashi},
+ institution          = {Tokyo Institute of Technology},
+ title                = {On compressibility of infinite sequences},
+ year                 = {1981},
+}
+
+@article{costa:12,
+ author               = {Jos\'e F\'elix Costa},
+ journal              = {Boletim da Sociedade Portuguesa de Matem\'atica},
+ pages                = {121--153},
+ title                = {{T}uring machines as clocks, rulers and randomizers},
+ volume               = {67},
+ year                 = {2012},
+}
+
+
+@article{dijkstra:59,
+  title={A note on two problems in connection with graphs},
+  author={Dijkstra, Edsger W},
+  journal={Numerische mathematik},
+  volume={1},
+  number={1},
+  pages={269--271},
+  year={1959}
+}
+
+@article{szelepcsenyi:88,
+  title={The method of forced enumeration for nondeterministic automata},
+  author={Szelepcs{\'e}nyi, R{\'o}bert},
+  journal={Acta Informatica},
+  volume={26},
+  number={3},
+  pages={279--284},
+  year={1988}
+}
+
+@article{immerman:88,
+  title={Nondeterministic space is closed under complementation},
+  author={Immerman, Neil},
+  journal={SIAM Journal on computing},
+  volume={17},
+  number={5},
+  pages={935--938},
+  year={1988}
+}
+
+@inproceedings{hartmanis:64,
+  title={Computational complexity of recursive sequnces},
+  author={Hartmanis, Juris and Stearns, Richard Edwin},
+  booktitle={1964 Proceedings of the Fifth Annual Symposium on Switching Circuit Theory and Logical Design},
+  pages={82--90},
+  year={1964},
+  organization={IEEE}
+}
+
+
+@phdthesis{allender:85,
+  title={Invertible functions},
+  author={Allender, Eric Warren},
+  year={1985},
+  school={Georgia Institute of Technology}
+}
+
+@article{rabin:60,
+  title={Degree of difficulty of computing a function and a partial ordering of recursive sets},
+  author={Rabin, Michael Oser},
+  journal={Technical Report 2},
+  year={1960},
+  publisher={Hebrew University}
+}
+
+
+
+@inproceedings{rabin:59,
+  title={Speed of computation and classification of recursive sets},
+  author={Rabin, Michael Oser},
+  booktitle={Third Convention Science Society},
+  pages={1--2},
+  year={1959}
+}
+
+
+@article{ritchie:63,
+  title={Classes of predictably computable functions},
+  author={Ritchie, Robert W},
+  journal={Transactions of the American Mathematical Society},
+  volume={106},
+  number={1},
+  pages={139--173},
+  year={1963},
+  publisher={JSTOR}
+}
+
+
+@article{rabin:59b,
+  title={Finite automata and their decision problems},
+  author={Rabin, Michael O and Scott, Dana},
+  journal={IBM journal of research and development},
+  volume={3},
+  number={2},
+  pages={114--125},
+  year={1959},
+  publisher={IBM}
+}
+ 
+@article{trakhtenbrot:64,
+  title={{T}uring computations with logarithmic delay},
+  author={Boris Trakhtenbrot},
+  journal={Algebra and Logic},
+  volume={3},
+  number={4},
+  pages={33--48},
+  year={1968}
+}
+
+@article{borodin:72,
+  title={Computational complexity and the existence of complexity gaps},
+  author={Borodin, Allan},
+  journal={Journal of the ACM (JACM)},
+  volume={19},
+  number={1},
+  pages={158--174},
+  year={1972},
+  publisher={ACM New York, NY, USA}
+}
+
+@article{edmonds:65,
+  title={Paths, trees, and flowers},
+  author={Edmonds, Jack},
+  journal={Canadian Journal of mathematics},
+  volume={17},
+  pages={449--467},
+  year={1965},
+  publisher={Cambridge University Press}
+}
+
+
+@incollection{karp:72,
+  title={Reducibility among combinatorial problems},
+  author={Karp, Richard M},
+  booktitle={Complexity of computer computations},
+  pages={85--103},
+  year={1972},
+  publisher={Springer}
+}
+
+@inproceedings{stockmeyer:73,
+  title={Word problems requiring exponential time},
+  author={Stockmeyer, Larry J and Meyer, Albert R},
+  booktitle={Proceedings of the fifth annual ACM symposium on Theory of computing},
+  pages={1--9},
+  year={1973}
+}
+
+@inproceedings{meyer:72,
+  title={The equivalence problem for regular expressions with squaring requires exponential space},
+  author={Meyer, Albert R and Stockmeyer, Larry J},
+  booktitle={SWAT},
+  volume={72},
+  pages={125--129},
+  year={1972}
+}
+
+@inproceedings{stearns:65,
+  title={Hierarchies of memory limited computations},
+  author={Stearns, Richard Edwin and Hartmanis, Juris and Lewis, Philip M},
+  booktitle={6th annual symposium on switching circuit theory and logical design (SWCT 1965)},
+  pages={179--190},
+  year={1965},
+  organization={IEEE}
+}
+
+@inproceedings{ko:88,
+  title={Relativized polynomial time hierarchies having exactly k levels},
+  author={Ko, Ker-I},
+  booktitle={Proceedings of the twentieth annual ACM symposium on Theory of computing},
+  pages={245--253},
+  year={1988}
+}
+
+@inproceedings{hartmanis:90b,
+  author="Hartmanis, Juris and Chang, Richard and Ranjan, Desh and Rohatgi, Pankaj",
+  editor="Gilbert, John R. and Karlsson, Rolf",
+  title="Structural complexity theory: Recent surprises",
+  booktitle="SWAT 90",
+  year="1990",
+  publisher="Springer Berlin Heidelberg",
+  pages="1--12"
+}
+
+
+
+@article{wrathall:76,
+  title={Complete sets and the polynomial-time hierarchy},
+  author={Wrathall, Celia},
+  journal={Theoretical Computer Science},
+  volume={3},
+  number={1},
+  pages={23--33},
+  year={1976},
+  publisher={Elsevier}
+}
+
+@article{stockmeyer:77,
+  title={The polynomial-time hierarchy},
+  author={Stockmeyer, Larry J},
+  journal={Theoretical Computer Science},
+  volume={3},
+  number={1},
+  pages={1--22},
+  year={1976},
+  publisher={Elsevier}
+}
+
+@article{even:76,
+  title={A combinatorial problem which is complete in polynomial space},
+  author={Even, Shimon and Tarjan, Robert Endre},
+  journal={Journal of the ACM (JACM)},
+  volume={23},
+  number={4},
+  pages={710--719},
+  year={1976},
+  publisher={ACM New York, NY, USA}
+}
+
+
+@inproceedings{gareys:74,
+  title={Some simplified polynomial complete problems},
+  author={Garey, MR and Johnson, DS and Stockmeyer, L},
+  booktitle={Proc. 6th Annual ACM Symposium on Theory of Computing, Association for Computing Machinery},
+  pages={47--63},
+  year = {1974}
+}
+
+@article{berkholz:17,
+  title={Tight lower and upper bounds for the complexity of canonical colour refinement},
+  author={Berkholz, Christoph and Bonsma, Paul and Grohe, Martin},
+  journal={Theory of Computing Systems},
+  volume={60},
+  pages={581--614},
+  year={2017},
+  publisher={Springer}
+}
+
+@incollection{bollobas:82,
+  title={Distinguishing vertices of random graphs},
+  author={Bollob{\'a}s, B{\'e}la},
+  booktitle={North-Holland Mathematics Studies},
+  volume={62},
+  pages={33--49},
+  year={1982},
+  publisher={Elsevier}
+}
+
+@article{babai:80,
+  title={Random graph isomorphism},
+  author={Babai, L{\'a}szl{\'o} and Erdos, Paul and Selkow, Stanley M},
+  journal={SIaM Journal on computing},
+  volume={9},
+  number={3},
+  pages={628--635},
+  year={1980},
+  publisher={SIAM}
+}
+
+@article{cai:92,
+  title={An optimal lower bound on the number of variables for graph identifications},
+  author={Cai, Jin-Yi and F{\"u}rer, Martin and Immerman, Neil},
+  journal={Combinatorica},
+  volume={12},
+  number={4},
+  pages={389--410},
+  year={1992},
+  publisher={Citeseer}
+}
+
+@article{morgan:65,
+  title={The generation of a unique machine description for chemical structures-a technique developed at chemical abstracts service.},
+  author={Morgan, Harry L},
+  journal={Journal of chemical documentation},
+  volume={5},
+  number={2},
+  pages={107--113},
+  year={1965},
+  publisher={ACS Publications}
+}
+
+
+@inproceedings{babai:16,
+  title={Graph isomorphism in quasipolynomial time},
+  author={Babai, L{\'a}szl{\'o}},
+  booktitle={Proceedings of the forty-eighth annual ACM symposium on Theory of Computing},
+  pages={684--697},
+  year={2016}
+}
+
+@inproceedings{cook:71,
+  title={The complexity of theorem-proving procedures},
+  author={Cook, Stephen A},
+  booktitle={Proceedings of the third annual ACM symposium on Theory of computing},
+  pages={151--158},
+  year={1971}
+}
+
+@article{levin:73,
+  title={Universal sequential search problems},
+  author={Levin, Leonid Anatolevich},
+  journal={Problemy peredachi informatsii},
+  volume={9},
+  number={3},
+  pages={115--116},
+  year={1973},
+  publisher={Russian Academy of Sciences, Branch of Informatics, Computer Equipment and~…}
+}
+
+@article{berman:77,
+  title={On isomorphisms and density of NP and other complete sets},
+  author={Berman, Leonard and Hartmanis, Juris},
+  journal={SIAM Journal on Computing},
+  volume={6},
+  number={2},
+  pages={305--322},
+  year={1977},
+  publisher={SIAM}
+}
+
+
+@inproceedings{hartmanis:80,
+  title={An essay about research on sparse NP complete sets},
+  author={Hartmanis, Juris and Mahaney, Stephen R},
+  booktitle={International Symposium on Mathematical Foundations of Computer Science},
+  pages={40--57},
+  year={1980},
+  organization={Springer}
+}
+
+@inproceedings{razborov:94,
+  title={Natural proofs},
+  author={Razborov, Alexander A and Rudich, Steven},
+  booktitle={Proceedings of the twenty-sixth annual ACM symposium on Theory of computing},
+  pages={204--213},
+  year={1994}
+}
+
+@book{arora:09,
+  title={Computational complexity: a modern approach},
+  author={Arora, Sanjeev and Barak, Boaz},
+  year={2009},
+  publisher={Cambridge University Press}
+}
+
+
+@article{baker:75,
+  title={Relativizations of the P=?NP question},
+  author={Baker, Theodore and Gill, John and Solovay, Robert},
+  journal={SIAM Journal on computing},
+  volume={4},
+  number={4},
+  pages={431--442},
+  year={1975},
+  publisher={SIAM}
+}
+
+@inproceedings{yao:85,
+  title={Separating the polynomial-time hierarchy by oracles},
+  author={Yao, Andrew Chi-Chih},
+  booktitle={26th Annual Symposium on Foundations of Computer Science (sfcs 1985)},
+  pages={1--10},
+  year={1985},
+  organization={IEEE}
+}
+
+@inproceedings{razborov:85,
+  title={Lower bounds for the monotone complexity of some Boolean functions},
+  author={Razborov, Alexander A},
+  booktitle={Soviet Math. Dokl.},
+  volume={31},
+  pages={354--357},
+  year={1985}
+}
+
+@article{tardos:88,
+  title={The gap between monotone and non-monotone circuit complexity is exponential},
+  author={Tardos, {\'E}va},
+  journal={Combinatorica},
+  volume={8},
+  pages={141--142},
+  year={1988},
+  publisher={Springer}
+}
+
+@article{erdos:60,
+  title={Intersection theorems for systems of sets},
+  author={Erd{\"o}s, Paul and Rado, Richard},
+  journal={Journal of the London Mathematical Society},
+  volume={1},
+  number={1},
+  pages={85--90},
+  year={1960},
+  publisher={Wiley Online Library}
+}
+
+@article{razborov:85b,
+  title={Lower bounds on monotone complexity of the logical permanent},
+  author={Alexander A. Razborov},
+  journal={Mathematical notes of the Academy of Sciences of the USSR},
+  year={1985},
+  volume={37},
+  pages={485-493}
+}
+
+@article{hartmanis:90,
+  title={New developments in structural complexity theory},
+  author={Hartmanis, Juris},
+  journal={Theoretical Computer Science},
+  volume={71},
+  number={1},
+  pages={79--93},
+  year={1990},
+  publisher={Elsevier}
+}
+
+@article{valiant:79,
+  title={The complexity of computing the permanent},
+  author={Valiant, Leslie G},
+  journal={Theoretical computer science},
+  volume={8},
+  number={2},
+  pages={189--201},
+  year={1979},
+  publisher={Elsevier}
+}
+
+@article{trakhtenbrot:84,
+  title={A survey of Russian approaches to perebor (brute-force searches) algorithms},
+  author={Trakhtenbrot, Boris A},
+  journal={Annals of the History of Computing},
+  volume={6},
+  number={4},
+  pages={384--400},
+  year={1984},
+  publisher={IEEE}
+}
+
+
+@article{book:72,
+  title={On languages accepted in polynomial time},
+  author={Book, Ronald V},
+  journal={SIAM Journal on Computing},
+  volume={1},
+  number={4},
+  pages={281--287},
+  year={1972},
+  publisher={SIAM}
+}
+
+@article{hartmanis:74,
+  title={The {LBA} Problem and its Importance in the Theory of Computing},
+  author={Hartmanis, J and Hunt, HB},
+  journal={American Mathematical Society, Providence, RI},
+  year={1974}
+}
+
+@Inbook{tourlakis:22,
+author={Tourlakis, George},
+title={The Second Recursion Theorem},
+bookTitle={Computability},
+year={2022},
+publisher={Springer International Publishing},
+pages={281--296}
+}
+
+@article{smorynski:22,
+  title={The Early History of Formal Diagonalization},
+  author={Smory{\'n}ski, C},
+  journal={Logic Journal of the IGPL},
+  year={2022}
+}
+
+
+@techreport{meyer:79,
+  title={With what frequency are apparently intractable problems difficult?},
+  author={Meyer, Albert R and Paterson, Michael Stewart},
+  year={1979},
+  institution={Massachusetts Institute of Technology, Laboratory for Computer Science}
+}
+
+
+@article{book:74,
+  title={Comparing complexity classes},
+  author={Book, Ronald V},
+  journal={Journal of Computer and System Sciences},
+  volume={9},
+  number={2},
+  pages={213--229},
+  year={1974},
+  publisher={Elsevier}
+}
+
+
+@article{book:76,
+  title={Translational lemmas, polynomial time, and (log n) j-space},
+  author={Book, Ronald V},
+  journal={Theoretical Computer Science},
+  volume={1},
+  number={3},
+  pages={215--226},
+  year={1976},
+  publisher={Elsevier}
+}
+
+@phdthesis{simon:75,
+  title={On some central problems in computational complexity},
+  author={Simon, Janos},
+  year={1975},
+  school={Cornell University}
+}
+
+@inproceedings{leivant:90,
+  title={Subrecursion and lambda representation over free algebras: (Preliminary summary)},
+  author={Leivant, Daniel},
+  booktitle={Feasible Mathematics: A Mathematical Sciences Institute Workshop, Ithaca, New York, June 1989},
+  pages={281--291},
+  year={1990},
+  organization={Springer}
+}
+
+@inproceedings{leivant:95,
+  title={Ramified recurrence and computational complexity I: Word recurrence and poly-time},
+  author={Leivant, Daniel},
+  booktitle={Feasible mathematics II},
+  pages={320--343},
+  year={1995},
+  organization={Springer}
+}
+
+
+@article{shamir:92,
+  title={Ip= pspace},
+  author={Shamir, Adi},
+  journal={Journal of the ACM (JACM)},
+  volume={39},
+  number={4},
+  pages={869--877},
+  year={1992},
+  publisher={ACM New York, NY, USA}
+}
+
+@inproceedings{mehlhorn:73,
+  title={On the size of sets of computable functions},
+  author={Mehlhorn, Kurt},
+  booktitle={14th Annual Symposium on Switching and Automata Theory (swat 1973)},
+  pages={190--196},
+  year={1973},
+  organization={IEEE}
+}
+
+
+@inproceedings{kintala:77b,
+  title={Computations with a restricted number of nondeterministic steps},
+  author={Kintala, Chandra MR and Fischer, Patrick C},
+  booktitle={Proceedings of the ninth annual ACM symposium on Theory of computing},
+  pages={178--185},
+  year={1977}
+}
+
+
+@phdthesis{kintala:77,
+  title={Computations with a restricted number of nondeterministic steps},
+  author={Kintala, Chandra MR},
+  school = {Pennsylvania State University},
+  year={1977}
+}
+
+@article{kintala:80,
+  title={Refining nondeterminism in relativized polynomial-time bounded computations},
+  author={Kintala, Chandra MR and Fischer, Patrick C},
+  journal={SIAM Journal on Computing},
+  volume={9},
+  number={1},
+  pages={46--53},
+  year={1980},
+  publisher={SIAM}
+}
+
+@article{xu:83,
+  title={Refining nondeterminism in relativizations of complexity classes},
+  author={Mei-Rui, Xu and Doner, John E and Book, Ronald V},
+  journal={Journal of the ACM (JACM)},
+  volume={30},
+  number={3},
+  pages={677--685},
+  year={1983},
+  publisher={ACM New York, NY, USA}
+}
+
+@article{schoning:84,
+  title={Immunity, relativizations, and nondeterminism},
+  author={Sch{\"o}ning, Uwe and Book, Ronald V},
+  journal={SIAM Journal on Computing},
+  volume={13},
+  number={2},
+  pages={329--337},
+  year={1984},
+  publisher={SIAM}
+}
+
+
+@article{book:81,
+  title={Bounded query machines: on NP and PSPACE},
+  author={Book, Ronald V},
+  journal={Theoretical Computer Science},
+  volume={15},
+  number={1},
+  pages={27--39},
+  year={1981},
+  publisher={Elsevier}
+}
+
+@article{book:84,
+  title={Quantitative relativizations of complexity classes},
+  author={Book, Ronald V and Long, Timothy J and Selman, Alan L},
+  journal={SIAM Journal on Computing},
+  volume={13},
+  number={3},
+  pages={461--487},
+  year={1984},
+  publisher={SIAM}
+}
+
+@article{book:81b,
+  title={Bounded query machines: On {NP}() and {NPQUERY}()},
+  author={Book, Ronald V and Wrathall, Celia},
+  journal={Theoretical Computer Science},
+  volume={15},
+  number={1},
+  pages={41--50},
+  year={1981},
+  publisher={Elsevier}
+}
+
+@article{book:82,
+ author = {Book, Ronald V. and Wilson, Christopher B. and Mei-Rui, Xu},
+ title = {Relativizing Time, Space, and Time-Space},
+ journal = {SIAM Journal on Computing},
+ volume = {11},
+ number = {3},
+ pages = {571-581},
+ year = {1982}
+}
+
+
+
+@article{selman:83,
+  title={Positive relativizations of complexity classes},
+  author={Selman, Alan L and Mei-Rui, Xu and Book, Ronald V},
+  journal={SIAM journal on computing},
+  volume={12},
+  number={3},
+  pages={565--579},
+  year={1983},
+  publisher={SIAM}
+}
+
+@article{angluin:80,
+  title={On counting problems and the polynomial-time hierarchy},
+  author={Angluin, Dana},
+  journal={Theoretical Computer Science},
+  volume={12},
+  number={2},
+  pages={161--173},
+  year={1980},
+  publisher={Elsevier}
+}
+
+
+@article{baker:77,
+ author = {Baker, Theodore and Selman, Alan L.},
+ title = {A second step toward the polynomial hierarchy},
+ journal = {Theoretical Computer Science},
+ volume = {8},
+ number = {2},
+ pages = {177-187},
+ year = {1979}
+}
+
+
+@article{knuth:72,
+  title={Ancient babylonian algorithms},
+  author={Knuth, Donald E},
+  journal={Communications of the ACM},
+  volume={15},
+  number={7},
+  pages={671--677},
+  year={1972},
+  publisher={ACM New York, NY, USA}
+}
+
+@article{luks:82,
+  title={Isomorphism of graphs of bounded valence can be tested in polynomial time},
+  author={Luks, Eugene M},
+  journal={Journal of computer and system sciences},
+  volume={25},
+  number={1},
+  pages={42--65},
+  year={1982},
+  publisher={Elsevier}
+}
+
+@article{grohe:20,
+  title={Recent advances on the graph isomorphism problem},
+  author={Grohe, Martin and Neuen, Daniel},
+  journal={arXiv preprint arXiv:2011.01366},
+  year={2020}
+}
+
+@article{knuth:70,
+  title={Von Neumann's first computer program},
+  author={Knuth, Donald E},
+  journal={ACM Computing Surveys (CSUR)},
+  volume={2},
+  number={4},
+  pages={247--260},
+  year={1970},
+  publisher={ACM New York, NY, USA}
+}
+
+
+@article{davis:73,
+  title={Hilbert's tenth problem is unsolvable},
+  author={Davis, Martin},
+  journal={The American Mathematical Monthly},
+  volume={80},
+  number={3},
+  pages={233--269},
+  year={1973},
+  publisher={Taylor \& Francis}
+}
+
+
+@inproceedings{matiyasevich:70,
+  title={The Diophantineness of enumerable sets},
+  author={Matiyasevich, Yuri Vladimirovich},
+  booktitle={Doklady Akademii Nauk},
+  volume={191},
+  pages={279--282},
+  year={1970},
+  organization={Russian Academy of Sciences}
+}
+
+@article{soare:99,
+  title={The History and Concept of Computability.},
+  author={Soare, Robert I},
+  journal={Handbook of computability theory},
+  volume={140},
+  pages={3--36},
+  year={1999}
+}
+
+@article{sipser:96,
+  title={Introduction to the Theory of Computation},
+  author={Sipser, Michael},
+  journal={ACM Sigact News},
+  volume={27},
+  number={1},
+  pages={27--29},
+  year={1996},
+  publisher={ACM New York, NY, USA}
+}
+
+
+@article{gurevich:08,
+  title={A natural axiomatization of computability and proof of Church's Thesis},
+  author={Dershowitz, Nachum and Gurevich, Yuri},
+  journal={Bulletin of symbolic logic},
+  volume={14},
+  number={3},
+  pages={299--350},
+  year={2008},
+  publisher={Cambridge University Press}
+}
+
+
+@article{copeland:99,
+  title={Alan {T}uring’s forgotten ideas in computer science},
+  author={Copeland, B Jack and Proudfoot, Diane},
+  journal={Scientific American},
+  volume={280},
+  number={4},
+  pages={98--103},
+  year={1999},
+  publisher={JSTOR}
+}
+
+
+@article{ord:02,
+  title={Hypercomputation: computing more than the {T}uring machine},
+  author={Ord, Toby},
+  journal={arXiv preprint math/0209332},
+  year={2002}
+}
+
+
+@incollection{davis:04,
+  title={The myth of hypercomputation},
+  author={Davis, Martin},
+  booktitle={Alan {T}uring: Life and legacy of a great thinker},
+  pages={195--211},
+  year={2004},
+  publisher={Springer}
+}
+
+@article{davis:06,
+  title={Why there is no such discipline as hypercomputation},
+  author={Davis, Martin},
+  journal={Applied Mathematics and Computation},
+  volume={178},
+  number={1},
+  pages={4--7},
+  year={2006},
+  publisher={Citeseer}
+}
+
+@book{hilbert:28,
+  title={Grundzüge der theoretischen Logik},
+  author={Hilbert, David and Ackermann, Wilhelm},
+  year={1928},
+  publisher={Springer}
+}
+
+@book{russell:10,
+  title={Principia Mathematica Vol. I},
+  author={Russell, Bertrand and Whitehead, Alfred North},
+  year={1910},
+  publisher = {Cambridge University Press}
+}
+
+@inproceedings{muchnik:56,
+  title={On the unsolvability of the problem of reducibility in the theory of algorithms},
+  author={Muchnik, Albert A},
+  booktitle={Doklady Akademii Nauk SSSR},
+  volume={108},
+  pages={194-197},
+  year={1956}
+}
+
+@article{schoning:98,
+  title={The Priority Method},
+  author={Sch{\"o}ning, Uwe and Pruim, Randall},
+  journal={Gems of Theoretical Computer Science},
+  pages={9--14},
+  year={1998},
+  publisher={Springer}
+}
+
+@article{friedberg:57,
+  title={Two recursively enumerable sets of incomparable degrees of unsolvability (solution of Post's problem, 1944)},
+  author={Friedberg, Richard M},
+  journal={Proceedings of the National Academy of Sciences},
+  volume={43},
+  number={2},
+  pages={236--238},
+  year={1957},
+  publisher={National Acad Sciences}
+}
+
+@book{post:44,
+  title={Recursively enumerable sets of positive integers and their decision problems},
+  author={Post, Emil L},
+  year={1944},
+  publisher={World Scientific}
+}
+
+@article{turing:39,
+  title={Systems of logic based on ordinals},
+  author={{T}uring, Alan Mathison},
+  journal={Proceedings of the London Mathematical Society, Series 2},
+  volume={45},
+  pages={161--228},
+  year={1939}
+}
+
+
+@article{godel:31,
+  title={{\"U}ber formal unentscheidbare S{\"a}tze der Principia Mathematica und verwandter Systeme},
+  author={G{\"o}del, Kurt},
+  journal={Monatshefte f{\"u}r mathematik und physik},
+  volume={38},
+  number={1},
+  pages={173--198},
+  year={1931},
+  publisher={Springer}
+}
+
+@incollection{priest:06,
+  title = {What's so Bad About Contradictions?},
+  booktitle = {The Law of Non-Contradiction: New Philosophical Essays},
+  year = {2006},
+  editor = {Graham Priest and J. C. Beall and Bradley Armour{-}Garb},
+  author = {Graham Priest},
+  publisher = {Clarendon Press}
+}
+
+
+
+@article{calude:79,
+  title={The first example of a recursive function which is not primitive recursive},
+  author={Calude, Cristian and Marcus, Solomon and Tevy, Ionel},
+  journal={Historia Mathematica},
+  volume={6},
+  number={4},
+  pages={380--384},
+  year={1979},
+  publisher={Elsevier}
+}
+
+
+@article{ackermann:28,
+  title={Zum hilbertschen aufbau der reellen zahlen},
+  author={Ackermann, Wilhelm},
+  journal={Mathematische Annalen},
+  volume={99},
+  number={1},
+  pages={118--133},
+  year={1928},
+  publisher={Springer-Verlag}
+}
+
+@article{sudan:27,
+  title={Sur le nombre transfini $\omega$ $\omega$},
+  author={Sudan, Gabriel},
+  journal={Bulletin math{\'e}matique de la Soci{\'e}t{\'e} Roumaine des Sciences},
+  volume={30},
+  number={1},
+  pages={11--30},
+  year={1927},
+  publisher={JSTOR}
+}
+
+@article{church:36,
+  title={An unsolvable problem of elementary number theory},
+  author={Alonzo Church},
+  journal={American Journal of Mathematics},
+  volume = {58},
+  pages = {345--363},
+  year = {1936}
+}
+
+@article{post:36,
+  title={Finite Combinatory Processes-Formulation 1},
+  author={Post, Emil L},
+  journal={The journal of symbolic logic},
+  volume={1},
+  number={3},
+  pages={103--105},
+  year={1936},
+  publisher={Cambridge University Press}
+}
+
+@article{post:43,
+  title={Formal reductions of the general combinatorial decision problem},
+  author={Post, Emil L},
+  journal={American journal of mathematics},
+  volume={65},
+  number={2},
+  pages={197--215},
+  year={1943},
+  publisher={JSTOR}
+}
+
+@article{church:36b,
+  title={A note on the Entscheidungsproblem},
+  author={Church, Alonzo},
+  journal={The journal of symbolic logic},
+  volume={1},
+  number={1},
+  pages={40--41},
+  year={1936},
+  publisher={Cambridge University Press}
+}
+
+@book{sacks:66,
+  title={Degrees of unsolvability},
+  author={Sacks, Gerald E},
+  year={1966},
+  publisher={Princeton University Press}
+}
+
+@article{soare:11,
+  title={{T}uring computability and information content},
+  author={Soare, Robert I},
+  journal={Philosophical Transactions of the Royal Society A},
+  volume={370},
+  pages={3277--3304},
+  year={2011}
+}
+
+@article{kleene:36b,
+  title={$\lambda$-definability and recursiveness},
+  author={Kleene, Stephen C},
+  journal={Duke mathematical journal},
+  volume={2},
+  number={2},
+  pages={340--353},
+  year={1936},
+  publisher={Duke University Press}
+}
+
+@article{dekker:55,
+  title={Productive sets},
+  author={Dekker, {J. C. E.}},
+  journal={Transactions of the American Mathematical Society},
+  volume={78},
+  number={1},
+  pages={129--149},
+  year={1955}
+}
+
+@article{kleene:36,
+  title={General recursive functions of natural numbers},
+  author={Kleene, Stephen Cole},
+  journal={Mathematische annalen},
+  volume={112},
+  number={1},
+  pages={727--742},
+  year={1936},
+  publisher={Springer}
+}
+
+@book{skolem:23,
+  title={Begr{\"u}ndung der elementaren Arithmetik durch die rekurrierende Denkweise ohne Anwendung scheinbarer Ver{\"a}nderlichen mit unendlichem Ausdehnungsbereich},
+  author={Skolem, Thoralf},
+  year={1923},
+  publisher={Dybusach}
+}
+
+
+@article{sieg:05,
+  title={Only two letters: The correspondence between Herbrand and G{\"o}del},
+  author={Sieg, Wilfried},
+  journal={Bulletin of Symbolic Logic},
+  volume={11},
+  number={2},
+  pages={172--184},
+  year={2005},
+  publisher={Cambridge University Press}
+}
+
+
+@article{herbrand:30,
+  title={Les bases de la logique Hilbertienne},
+  author={Herbrand, Jacques},
+  journal={Revue de M{\'e}taphysique et de Morale},
+  volume={37},
+  number={2},
+  pages={243--255},
+  year={1930},
+  publisher={JSTOR}
+}
+
+@article{herbrand:32,
+  title={Sur la non-contradiction de l'Arithm{\'e}tique.},
+  author={Herbrand, Jacques},
+  year={1932},
+  journal = {Journal f{\"u}r die reine und angewandte Mathematik (Crelles Journal)},
+  publisher={Walter de Gruyter, Berlin/New York Berlin, New York}
+}
+
+@article{kleene:38,
+  title={On notation for ordinal numbers},
+  author={Kleene, Stephen Cole},
+  journal={The Journal of Symbolic Logic},
+  volume={3},
+  number={4},
+  pages={150--155},
+  year={1938},
+  publisher={Cambridge University Press}
+}
+
+@book{dedekind:88,
+ author = {Dedekind, Richard},
+ year = {1888},
+ title = {Was Sind und was Sollen die Zahlen?},
+ publisher = {Springer Fachmedien Wiesbaden GmbH}
+}
+
+@book{peano:89,
+  title={Arithmetices principia: Nova methodo exposita},
+  author={Peano, Giuseppe},
+  year={1889},
+  publisher={Fratres Bocca}
+}
+
+@book{hilbert:27,
+  title={Die grundlagen der mathematik},
+  author={Hilbert, David},
+  year={1927},
+  publisher={Springer}
+}
+
+@book{hilbert:22,
+  title={Neubegr{\"u}ndung der mathematik. erste mitteilung},
+  author={Hilbert, David},
+  year={1922},
+  publisher={Springer}
+}
+
+@article{hilbert:22a,
+  title={Die logischen grundlagen der mathematik},
+  author={Hilbert, David},
+  journal={Mathematische Annalen},
+  volume={88},
+  number={1},
+  pages={151--165},
+  year={1922},
+  publisher={Springer}
+}
+
+@article{kleene:81,
+  title={Origins of recursive function theory},
+  author={Kleene, Stephen C},
+  journal={Annals of the History of Computing},
+  volume={3},
+  number={1},
+  pages={52--67},
+  year={1981},
+  publisher={IEEE}
+}
+
+@article{ackermann:24,
+  title={Begr{\"u}ndung des „tertium non datur” mittels der Hilbertschen Theorie der Widerspruchsfreiheit},
+  author={Ackermann, Wilhelm},
+  journal={Mathematische annalen},
+  volume={93},
+  number={1},
+  pages={1--36},
+  year={1924},
+  publisher={Springer}
+}
+
+@article{neumann:27,
+  title={Zur Hilbertschen Beweistheorie},
+  author={von Neumann, John},
+  journal={Mathematische Zeitschrift},
+  volume={26},
+  number={1},
+  pages={1--46},
+  year={1927},
+  publisher={Springer}
+}
+
+@article{bernays:23,
+  title={Erwiderung auf die Note von Herrn Aloys M{\"u}ller:„{\"U}ber Zahlen als Zeichen”},
+  author={Bernays, Paul},
+  journal={Mathematische Annalen},
+  volume={90},
+  number={3},
+  pages={159--163},
+  year={1923},
+  publisher={Springer}
+}
+
+
+@article{peter:34,
+  title={{\"U}ber den Zusammenhang der verschiedenen Begriffe der rekursiven Funktionen},
+  author={Rozsa, Peter},
+  journal={Math. Ann},
+  volume={110},
+  pages={612--632},
+  year={1934}
+}
+
+@book{heijenoort:67,
+  title={From Frege to Go{\"e}l: A Source Book in Mathematical Logic, 1879-1931},
+  author={Van Heijenoort, Jean},
+  year={1967},
+  publisher={Harvard University Press}
+}
+
+@book{rogers:87,
+  title={Theory of recursive functions and effective computability},
+  author={Rogers Jr, Hartley},
+  year={1987},
+  publisher={MIT press}
+}
+
+
+@article{kleene:43,
+  title={Recursive predicates and quantifiers},
+  author={Kleene, Stephen Cole},
+  journal={Transactions of the American Mathematical Society},
+  volume={53},
+  number={1},
+  pages={41--73},
+  year={1943},
+  publisher={JSTOR}
+}
+
+@article{mostowski:47,
+  title={On definable sets of positive integers},
+  author={Mostowski, Andrzej},
+  journal={Fundamenta mathematicae},
+  volume={34},
+  number={1},
+  pages={81--112},
+  year={1947},
+  publisher={Polska Akademia Nauk. Instytut Matematyczny PAN}
+}
+
+
+@article{rosser:36,
+  title={Extensions of some theorems of G{\"o}del and Church},
+  author={Rosser, Barkley},
+  journal={The journal of symbolic logic},
+  volume={1},
+  number={3},
+  pages={87--91},
+  year={1936},
+  publisher={Cambridge University Press}
+}
+
+@misc{fueter:23,
+    author = {Rudoplh Fueter and Georg Pólya},
+    title = {{Rationale Abzählung der Gitterpunkte}},
+    year = {1923}
+}
+
+@inproceedings{minsky:62,
+  title={Problems of formulation for artificial intelligence},
+  author={Minsky, Marvin L},
+  booktitle={Proceedings of a Symposium on Mathematical Problems in Biology},
+  pages={35--46},
+  year={1962}
+}
+
+@article{chaitin:66,
+  title={On the length of programs for computing finite binary sequences},
+  author={Chaitin, Gregory J},
+  journal={Journal of the ACM (JACM)},
+  volume={13},
+  number={4},
+  pages={547--569},
+  year={1966},
+  publisher={ACM New York, NY, USA}
+}
+
+
+@article{chaitin:74,
+  title={Information-theoretic limitations of formal systems},
+  author={Chaitin, Gregory J},
+  journal={Journal of the ACM (JACM)},
+  volume={21},
+  number={3},
+  pages={403--424},
+  year={1974},
+  publisher={ACM New York, NY, USA}
+}
+
+
+@article{chaitin:69,
+  title={On the simplicity and speed of programs for computing infinite sets of natural numbers},
+  author={Chaitin, Gregory J},
+  journal={Journal of the ACM (JACM)},
+  volume={16},
+  number={3},
+  pages={407--422},
+  year={1969},
+  publisher={ACM New York, NY, USA}
+}
+
+
+@article{kolmogorov:68,
+  title={Logical basis for information theory and probability theory},
+  author={Kolmogorov, Andrei},
+  journal={IEEE Transactions on Information Theory},
+  volume={14},
+  number={5},
+  pages={662--664},
+  year={1968},
+  publisher={IEEE}
+}
+
+
+@article{kolmogorov:65,
+  title={Three approaches to the quantitative definition ofinformation’},
+  author={Kolmogorov, Andrei N},
+  journal={Problems of information transmission},
+  volume={1},
+  number={1},
+  pages={1--7},
+  year={1965}
+}
+
+@article{bournez:18,
+  title={Recursion schemes, discrete differential equations and characterization of polynomial time computation},
+  author={Bournez, Olivier and Durand, Arnaud and Ouazzani, Sabrina},
+  journal={arXiv preprint},
+  year={2018}
+}
+
+@inproceedings{laplante:06,
+  author="Laplante, Sophie",
+  editor="Beckmann, Arnold and Berger, Ulrich and L{\"o}we, Benedikt and Tucker, John V.",
+  title="Lower Bounds Using Kolmogorov Complexity",
+  booktitle="Logical Approaches to Computational Barriers",
+  year="2006",
+  publisher="Springer Berlin Heidelberg"
+}
+
+@book{li:97,
+  title={An introduction to {K}olmogorov complexity and its applications},
+  author={Li, Ming and Vit{\'a}nyi, Paul},
+  volume={3},
+  year={1997},
+  publisher={Springer}
+}
+
+@article{dekker:53,
+  title={Two notes on recursively enumerable sets},
+  author={Dekker, JCE},
+  journal={Proceedings of the American Mathematical Society},
+  volume={4},
+  number={3},
+  pages={495--501},
+  year={1953}
+}
+
+@article{myhill:55,
+  journal = {Zeitschrift für mathematische Logik und Grundlagen der Mathematik},
+  year = {1955},
+  pages = {97--108},
+  title = {Creative Sets},
+  author = {John Myhill},
+  volume = {1}
+}
+
+
+@article{goldschlager:86,
+  title={On the construction of parallel computers from various bases of boolean functions},
+  author={Goldschlager, Leslie M and Parberry, Ian},
+  journal={Theoretical Computer Science},
+  volume={43},
+  pages={43--58},
+  year={1986},
+  publisher={Elsevier}
+}
+
+
+@article{hilbert:05,
+  title={On the foundations of logic and arithmetic},
+  author={Hilbert, David},
+  journal={The monist},
+  volume={15},
+  number={3},
+  pages={338--352},
+  year={1905}
+}
+
+
+@book{floridi:04,
+  title={The Blackwell guide to the philosophy of computing and information},
+  editor={Floridi, Luciano},
+  year={2004},
+  publisher={John Wiley \& Sons}
+}
+
+@article{markov:54,
+  title={The theory of algorithms},
+  author={Markov, Andrei Andreevich},
+  journal={Trudy Matematicheskogo Instituta Imeni VA Steklova},
+  volume={42},
+  pages={3--375},
+  year={1954},
+  publisher={Russian Academy of Sciences, Steklov Mathematical Institute of Russian~…}
+}
+
+@inproceedings{kuvcera:86,
+  title={An alternative, priority-free, solution to Post's problem},
+  author={Ku{\v{c}}era, Anton{\'\i}n},
+  booktitle={Mathematical Foundations of Computer Science 1986: Proceedings of the 12th Symposium Bratislava, Czechoslovakia August 25--29, 1986 12},
+  pages={493--500},
+  year={1986},
+  organization={Springer Berlin Heidelberg}
+}
+
+@article{russell:02,
+  title={Letter to {F}rege},
+  author={Russell, Bertrand},
+  journal={From Frege to G{\"o}del},
+  pages={124--125},
+  year={1902},
+  publisher={Harvard University Press Cambridge, UK}
+}
+
+@book{davis:18,
+  title={The universal computer: The road from Leibniz to {T}uring},
+  author={Davis, Martin},
+  year={2018},
+  publisher={AK Peters/CRC Press}
+}
+
+@incollection{davis:06a,
+ author               = {Martin Davis},
+ booktitle            = {Alan {T}uring: the life and legacy of a great thinker},
+ editor               = {Christof Teuscher},
+ pages                = {195--212},
+ publisher            = {Springer},
+ title                = {The myth of hypercomputation},
+ year                 = {2006},
+}
+
+@article{kroon:96,
+  title={The intrinsic difficulty of recursive functions},
+  author={Frederick W. Kroon},
+  journal={Studia Logica},
+  year={1996},
+  volume={56},
+  pages={427-454}
+}
+
+@incollection{smorynski:77,
+  title={The incompleteness theorems},
+  author={Smorynski, Craig},
+  booktitle={Studies in Logic and the Foundations of Mathematics},
+  volume={90},
+  pages={821--865},
+  year={1977},
+  publisher={Elsevier}
+}
+
+@mastersthesis{oitavem:95,
+  title={Tr{\^e}s assuntos de L{\'o}gica e Complexidade},
+  author={Oitavem, I},
+  year={1995},
+  school={Universidade de Lisboa}
+}
+
+@phdthesis{oitavem:01b,
+  title={Classes of computational complexity: implicit characterizations - a study in mathematical logic},
+  author={Oitavem, I},
+  year={2001},
+  school={Universidade de Lisboa}
+}
+
+
+@book{kalmar:43,
+  title={Egyszer{\H{u}} p{\'e}lda eld{\"o}nthetetlen aritmetikai probl{\'e}m{\'a}ra},
+  author={L{\'a}szl{\'o}, Kalm{\'a}r},
+  year={1943},
+  publisher={Franklin}
+}
+
+@book{odifreddi:99,
+ author               = {Piergiorgio Odifreddi},
+ publisher            = {North Holland},
+ series               = {Studies in Logic and the Foundations of Mathematics},
+ title                = {Classical Recursion Theory II},
+ year                 = {1999},
+}
+ 
+ 
+@phdthesis{bennet:62,
+  title={On Spectra},
+  author={James Hallam Bennett},
+  year={1962},
+  school={Princeton University}
+} 
+
+@incollection{schoning:90,
+  title={The power of counting},
+  author={Sch{\"o}ning, Uwe},
+  booktitle={Complexity Theory Retrospective},
+  pages={204--223},
+  year={1990},
+  publisher={Springer}
+}
+
+@article{solovay:77,
+  title={A fast Monte-Carlo test for primality},
+  author={Solovay, Robert and Strassen, Volker},
+  journal={SIAM journal on Computing},
+  volume={6},
+  number={1},
+  pages={84--85},
+  year={1977},
+  publisher={SIAM}
+}
+
+@article{toda:87,
+  title={{$\Sigma_2$SPACE(n)} is closed under complement},
+  author={Toda, Seinosuke},
+  journal={Journal of Computer and System Sciences},
+  volume={35},
+  number={2},
+  pages={145--152},
+  year={1987},
+  publisher={Elsevier}
+}
+
+@inproceedings{lange:87,
+  title={The logarithmic alternation hierarchy collapses: A$\Sigma_2^L$ = A$\Pi_2^L$},
+  author={Lange, Klaus-J{\"o}rn and Jenner, Birgit and Kirsig, Bernd},
+  booktitle={International Colloquium on Automata, Languages, and Programming},
+  pages={531--541},
+  year={1987},
+  organization={Springer}
+}
+
+
+@article{yap:83,
+  title={Some consequences of non-uniform conditions on uniform classes},
+  author={Yap, Chee K},
+  journal={Theoretical computer science},
+  volume={26},
+  number={3},
+  pages={287--300},
+  year={1983},
+  publisher={Elsevier}
+}
+
+
+@phdthesis{kadin:88,
+  title={Restricted {T}uring reducibilities and the structure of the polynomial time hierarchy},
+  author={Kadin, Jim},
+  year={1988},
+  school={Cornell University}
+}
+
+@inproceedings{krentel:86,
+  title={The complexity of optimization problems},
+  author={Krentel, Mark W},
+  booktitle={Proceedings of the eighteenth annual ACM symposium on Theory of computing},
+  pages={69--76},
+  year={1986}
+}
+
+
+@article{kadin:88b,
+  title={The polynomial hierarchy collapses if the Boolean hierarchy collapses},
+  author={Kadin, J},
+  journal={SIAM J. Comput},
+  volume={17},
+  number={6},
+  pages={1263--1282},
+  year = 1988
+}
+
+
+@inproceedings{cai:86,
+  title={The Boolean hierarchy: hardware over NP},
+  author={Cai, Jin-yi and Hemachandra, Lane},
+  booktitle={Structure in Complexity Theory},
+  pages={105--124},
+  year={1986},
+  organization={Springer}
+}
+
+
+
+@article{cai:89,
+  title={The boolean hierarchy II: Applications},
+  author={Cai, Jin-Yi and Gundermann, Thomas and Hartmanis, Juris and Hemachandra, Lane A and Sewelson, Vivian and Wagner, Klaus and Wechsung, Gerd},
+  journal={SIAM Journal on Computing},
+  volume={18},
+  number={1},
+  pages={95--111},
+  year={1989},
+  publisher={SIAM}
+}
+
+@article{cai:88c,
+  title={The boolean hierarchy I: Structural properties},
+  author={Cai, Jin-Yi and Gundermann, Thomas and Hartmanis, Juris and Hemachandra, Lane A and Sewelson, Vivian and Wagner, Klaus and Wechsung, Gerd},
+  journal={SIAM Journal on Computing},
+  volume={17},
+  number={6},
+  pages={1232--1252},
+  year={1988},
+  publisher={SIAM}
+}
+
+
+@article{blass:82,
+  title={On the unique satisfiability problem},
+  author={Blass, Andreas and Gurevich, Yuri},
+  journal={Information and Control},
+  volume={55},
+  number={1-3},
+  pages={80--88},
+  year={1982},
+  publisher={Elsevier}
+}
+
+@inproceedings{cai:89b,
+  title={On the power of parity polynomial time},
+  author={Cai, Jin-yi and Hemachandra, Lane A},
+  booktitle={STACS 89: 6th Annual Symposium on Theoretical Aspects of Computer Science Paderborn, FRG, February 16--18, 1989 Proceedings 6},
+  pages={229--239},
+  year={1989},
+  organization={Springer}
+}
+
+@techreport{hemachandra:88,
+  title={On the Power of Probabilistic Polynomial Time: $P^{NP[\log]}\subseteq PP$},
+  author={Hemachandra, Lane A and Wechsung, Gerd},
+  year={1988},
+  institution = {Columbia Department of Computer Science}
+}
+
+@inproceedings{wagner:85,
+  title={On the Boolean closure of NP},
+  author={Wagner, K and Wechsung, Gerd},
+  booktitle={Proceedings of the 1985 International Conference on Fundamentals of Computation Theory},
+  volume={199},
+  pages={485--493},
+  year={1985}
+}
+
+@inproceedings{beigel:91,
+  title={PP is closed under intersection},
+  author={Beigel, Richard and Reingold, Nick and Spielman, Daniel},
+  booktitle={Proceedings of the twenty-third annual ACM symposium on Theory of Computing},
+  pages={1--9},
+  year={1991}
+}
+
+@phdthesis{kobler:85,
+  title={Unterschung verschiedener polynomieller Reduktionsklassen von NP, Diplom},
+  author={K{\"o}bler, J},
+  year={1985},
+  school={Institut f{\"u}r Informatik, Universität Stuttgart}
+}
+
+@article{kobler:87,
+  title={The difference and truth-table hierarchies for NP},
+  author={K{\"o}bler, Johannes and Sch{\"o}ning, Uwe and Wagner, Klaus W},
+  journal={RAIRO-Theoretical Informatics and Applications},
+  volume={21},
+  number={4},
+  pages={419--435},
+  year={1987},
+  publisher={EDP Sciences}
+}
+
+@techreport{beigel:88,
+  title={When are k+ 1 queries better than k?},
+  author={Beigel, Richard},
+  year={1988},
+  institution={Johns Hopkins University}
+}
+
+@article{amir:88,
+  title={Polynomial terse sets},
+  author={Amir, Amihood and Gasarch, William I},
+  journal={Information and Computation},
+  volume={77},
+  number={1},
+  pages={37--56},
+  year={1988},
+  publisher={Elsevier}
+}
+
+@phdthesis{russo:85,
+  title={Structural properties of complexity classes},
+  author={Russo, David Allen},
+  year={1985},
+  school = {University of California}
+}
+
+@techreport{beigel:89,
+  title={On the power of probabilistic polynomial time},
+  author={Beigel, Richard and Hemachandra, Lane A and Wechsung, Gerd},
+  year={1989},
+  institution={Department of Computer Science, The Johns Hopkins University}
+}
+
+@inproceedings{toda:89,
+  title={On the computational power of PP and $\oplus$P},
+  author={Toda, Seinosuke},
+  booktitle={30th Annual Symposium on Foundations of Computer Science},
+  pages={514--519},
+  year={1989},
+  organization={IEEE Computer Society}
+}
+
+@article{allender:88,
+  title={P-printable sets},
+  author={Allender, Eric W and Rubinstein, Roy S},
+  journal={SIAM Journal on Computing},
+  volume={17},
+  number={6},
+  pages={1193--1202},
+  year={1988},
+  publisher={SIAM}
+}
+
+@inproceedings{papadimitriou:82a,
+  title={Two remarks on the power of counting},
+  author={Papadimitriou, Christos and Zachos, Stathis},
+  booktitle={Proceedings of the 6th GI conference on theoretical computer science},
+  volume={145},
+  pages={269--276},
+  year={1982}
+}
+
+@inproceedings{papadimitriou:82,
+  title={The complexity of facets (and some facets of complexity)},
+  author={Papadimitriou, Christos H and Yannakakis, Mihalis},
+  booktitle={Proceedings of the fourteenth annual ACM symposium on Theory of computing},
+  pages={255--260},
+  year={1982}
+}
+
+
+@article{schaefer:02,
+  title={Completeness in the polynomial-time hierarchy: A compendium},
+  author={Schaefer, Marcus and Umans, Christopher},
+  journal={SIGACT news},
+  volume={33},
+  number={3},
+  pages={32--49},
+  year={2002},
+  publisher={Citeseer}
+}
+
+
+@article{gao:22,
+ title = {A computation model with automatic functions and relations as primitive operations},
+ journal = {Theoretical Computer Science},
+ volume = {924},
+ pages = {94-116},
+ year = {2022},
+ author = {Ziyuan Gao and Sanjay Jain and Zeyong Li and Ammar Fathin Sabili and Frank Stephan}
+}
+
+
+@article{floyd:90,
+ author = {Floyd, Robert and Knuth, Donald},
+ year = {1990},
+ month = {04},
+ pages = {329-340},
+ title = {Addition Machines.},
+ volume = {19},
+ journal = {SIAM Journal on Computing},
+}
+
+@inproceedings{hartmanis:74b,
+  title={On the power of multiplication in random access machines},
+  author={Hartmanis, Juris and Simon, Janos},
+  booktitle={15th Annual Symposium on Switching and Automata Theory (swat 1974)},
+  pages={13--23},
+  year={1974},
+  organization={IEEE}
+}
+
+@article{myhill:60,
+  title={Linear bounded automata},
+  author={Myhill, John},
+  journal={Wright Air Development Division},
+  year={1960},
+  publisher={US Air Force Wright-Patterson Air Force Base}
+}
+
+@article{csillag:47,
+ title={Eine Bemerkung zur Auflösung der eingeschachtelten Rekursion},
+ volume={11},
+ pages={169--173},
+ journal={Acta scientiarum mathematicarum},
+ author={Paul Csillag},
+ year={1947}
+}
+
+@article{nieuwenhuis:93,
+  title={Simple LPO constraint solving methods},
+  author={Nieuwenhuis, Robert},
+  journal={Information Processing Letters},
+  volume={47},
+  number={2},
+  pages={65--69},
+  year={1993},
+  publisher={Elsevier}
+}
+
+
+
+@article{cook:71b,
+  title={Characterizations of pushdown machines in terms of time-bounded computers},
+  author={Cook, Stephen A},
+  journal={Journal of the ACM (JACM)},
+  volume={18},
+  number={1},
+  pages={4--18},
+  year={1971},
+  publisher={ACM New York, NY, USA}
+}
+
+
+@Inbook{homer:11,
+  author="Homer, Steven and Selman, Alan L.",
+  title="Probabilistic Complexity Classes",
+  bookTitle="Computability and Complexity Theory",
+  year="2011",
+  publisher="Springer US",
+  pages="225--246"
+}
+
+@article{bennett:81,
+  title={Relative to a Random Oracle A, $P^A\neq NP^A\neq co-NP^A$ with Probability 1},
+  author={Bennett, Charles H and Gill, John},
+  journal={SIAM Journal on Computing},
+  volume={10},
+  number={1},
+  pages={96--113},
+  year={1981},
+  publisher={SIAM}
+}
+
+@inproceedings{adleman:78,
+  title={Two theorems on random polynomial time},
+  author={Adleman, Leonard},
+  booktitle={19th Annual Symposium on Foundations of Computer Science (sfcs 1978)},
+  pages={75--83},
+  year={1978},
+  organization={IEEE Computer Society}
+}
+
+@Inbook{goldreich:11,
+  author={Goldreich, Oded and Zuckerman, David},
+  title={Another Proof that ${BPP}\subseteq{PH}$ (and More)},
+  booktitle={Studies in Complexity and Cryptography. Miscellanea on the Interplay between Randomness and Computation},
+  year={2011},
+  publisher={Springer Berlin Heidelberg},
+  pages={40--53}
+}
+
+@article{zachos:88,
+  title={Probabilistic quantifiers and games},
+  author={Zachos, Stathis},
+  journal={Journal of Computer and System Sciences},
+  volume={36},
+  number={3},
+  pages={433--451},
+  year={1988},
+  publisher={Elsevier}
+}
+
+@inproceedings{sipser:83,
+  title={A complexity theoretic approach to randomness},
+  author={Sipser, Michael},
+  booktitle={Proceedings of the fifteenth annual ACM symposium on Theory of computing},
+  pages={330--335},
+  year={1983}
+}
+
+@article{ko:82,
+  title={Some observations on the probabilistic algorithms and NP-hard problems},
+  author={Ko, Ker-I},
+  journal={Information Processing Letters},
+  volume={14},
+  number={1},
+  pages={39--43},
+  year={1982},
+  publisher={Elsevier}
+}
+
+@techreport{lautemann:82,
+  title={On two computational models for probabilistic algorithms},
+  author={Lautemann, Clemens},
+  year={1982},
+  institution={Technische Universität Berlin}
+}
+
+@article{vinodchandran:05,
+  title={A note on the circuit complexity of PP},
+  author={Vinodchandran, N Variyam},
+  journal={Theoretical Computer Science},
+  volume={347},
+  number={1-2},
+  pages={415--418},
+  year={2005},
+  publisher={Elsevier}
+}
+
+@inproceedings{aaronson:06,
+  title={Oracles are subtle but not malicious},
+  author={Aaronson, Scott},
+  booktitle={21st Annual IEEE Conference on Computational Complexity (CCC'06)},
+  pages={15--pp},
+  year={2006},
+  organization={IEEE}
+}
+
+@inproceedings{impagliazzo:89,
+  title={How to recycle random bits},
+  author={Impagliazzo, Russell and Zuckerman, David},
+  booktitle={FOCS},
+  volume={30},
+  pages={248--253},
+  year={1989}
+}
+
+@article{kurtz:83,
+  title = {On the random oracle hypothesis},
+  journal = {Information and Control},
+  volume = {57},
+  number = {1},
+  pages = {40-47},
+  year = {1983},
+  author = {Stuart A. Kurtz}
+}
+
+@article{lautemann:83,
+  title={{BPP} and the polynomial hierarchy},
+  author={Lautemann, Clemens},
+  journal={Information Processing Letters},
+  volume={17},
+  number={4},
+  pages={215--217},
+  year={1983},
+  publisher={Elsevier}
+}
+
+@article{leeuw:56,
+  title={Computability by probabilistic machines},
+  author={De Leeuw, Karel and Moore, Edward F and Shannon, Claude E and Shapiro, Norman},
+  journal={Automata studies},
+  volume={34},
+  pages={183--198},
+  year={1956}
+}
+
+@phdthesis{gill:72,
+ author               = {J. Gill},
+ school               = {University of California at Berkeley},
+ title                = {{P}robabilistic {T}uring {M}achines and {C}omplexity of {C}omputations},
+ year                 = {1972},
+ }
+ 
+@inproceedings{gill:74,
+  title={Computational complexity of probabilistic Turing machines},
+  author={J. Gill},
+  booktitle={Proceedings of the sixth annual ACM symposium on Theory of computing},
+  pages={91--95},
+  year={1974}
+}
+
+@article{gill:77,
+ author               = {J. Gill},
+ journal              = {SIAM Journal on Computing},
+ pages                = {675--695},
+ title                = {Computational complexity of probabilistic {T}uring machines},
+ volume               = {6},
+ year                 = {1977},
+}
+ 
+@inproceedings{zachos:86,
+  title={Probabilistic quantifiers, adversaries, and complexity classes: An overview},
+  author={Zachos, Stathis},
+  booktitle={Structure in Complexity Theory: Proceedings of the Conference held at the University of California, Berkeley, California, June 2--5, 1986},
+  pages={383--400},
+  year={1986},
+  organization={Springer}
+}
+ 
+@inproceedings{adleman:87,
+  title={Recognizing primes in random polynomial time},
+  author={Adleman, Leonard and Huang, M},
+  booktitle={Proceedings of the Nineteenth Annual ACM Symposium on Theory of Computing},
+  pages={462--469},
+  year={1987}
+}
+ 
+@inproceedings{adleman:77,
+  author    = {Leonard M. Adleman and Kenneth L. Manders},
+  editor    = {John E. Hopcroft and Emily P. Friedman and Michael A. Harrison},
+  title     = {Reducibility, Randomness, and Intractability (Abstract)},
+  booktitle = {Proceedings of the 9th Annual {ACM} Symposium on Theory of Computing,
+               May 4-6, 1977, Boulder, Colorado, {USA}},
+  pages     = {151--163},
+  publisher = {{ACM}},
+  year      = {1977}
+}
+
+@phdthesis{miller:75,
+ author               = {G. L. Miller},
+ title                = {Riemann's hypothesis and tests for primality},
+ year                 = {1975},
+ school               = {Berkeley},
+}
+
+@article{miller:76,
+ author               = {G. L. Miller},
+ journal              = {Journal of Computer and Systems Science},
+ pages                = {300--317},
+ title                = {Riemann's hypothesis and tests for primality},
+ volume               = {13},
+ year                 = {1976},
+}
+
+
+@article{rabin:80,
+  author = {Michael O. Rabin},
+  title = {Probabilistic algorithm for testing primality},
+  journal = {Journal of Number Theory},
+  volume = {12},
+  number = {1},
+  pages = {128-138},
+  year = {1980},
+  publisher={Elsevier}
+}
+
+@book{mitzenmacher:05,
+  author    = {Michael Mitzenmacher and
+               Eli Upfal},
+  title     = {Probability and Computing: Randomized Algorithms and Probabilistic
+               Analysis},
+  publisher = {Cambridge University Press},
+  year      = {2005}
+} 
+
+
+@book{goldreich:08,
+ author               = {Oded Goldreich},
+ publisher            = {Cambridge University Press},
+ title                = {Computational {C}omplexity},
+ year                 = {2008},
+}
+
+
+@article{gurevich:00,
+  title={Sequential abstract-state machines capture sequential algorithms},
+  author={Gurevich, Yuri},
+  journal={ACM Transactions on Computational Logic (TOCL)},
+  volume={1},
+  number={1},
+  pages={77--111},
+  year={2000},
+  publisher={ACM New York, NY, USA}
+}
+
+@article{behmann:22,
+  title={Beitr{\"a}ge zur Algebra der Logik, insbesondere zum Entscheidungsproblem},
+  author={Behmann, Heinrich},
+  journal={Mathematische Annalen},
+  volume={86},
+  number={3},
+  pages={163--229},
+  year={1922},
+  publisher={Springer-Verlag}
+}
+
+
+@book{herken:88,
+  title={The universal {T}uring machine: a half-century survey},
+  author={Herken, Rolf},
+  year={1988},
+  publisher={Springer}
+}
+
+@article{rosser:39,
+  title={An informal exposition of proofs of Goedel's theorems and Church's theorem},
+  author={Rosser, Barkley},
+  journal={The Journal of Symbolic Logic},
+  volume={4},
+  number={2},
+  pages={53--60},
+  year={1939},
+  publisher={Cambridge University Press}
+}
+
+
+@article{shoenfield:92,
+  title={Mathematical Logic Addison-Weseley, Reading, MA, 1967. 16 R. Smullyan},
+  author={Shoenfield, JR},
+  journal={G{\"o}del s Incompleteness Theorems},
+  year={1992}
+}
+
+@techreport{schroeppel:73,
+  title={A Two Counter Machine Cannot Calculate 2 sup N},
+  author={Schroeppel, Rich},
+  year={1973},
+  institution={A. I. Laboratory, Massachusetts Institute of Technology, Cambridge}
+}
+
+
+@article{kolmogorov:58,
+  title={K opredeleniu algoritma},
+  author={Kolmogorov, Andre{\i} N and Uspensky, Vladimir A},
+  journal={Uspekhi Matematicheskikh Nauk [Russian Mathematical Surveys]},
+  volume={13},
+  number={4},
+  pages={3--28},
+  year={1958}
+}
+
+@article{adamatzky:07,
+  title={Physarum machine: implementation of a Kolmogorov-Uspensky machine on a biological substrate},
+  author={Adamatzky, Andrew},
+  journal={Parallel Processing Letters},
+  volume={17},
+  number={04},
+  pages={455--467},
+  year={2007},
+  publisher={World Scientific}
+}
+
+@article{gandy:80,
+  title={Church’s Thesis and principles for mechanisms, The Kleene Symposium},
+  author={Gandy, Robin O},
+  journal={North-Holland Studies in Logic},
+  pages={123--148},
+  year={1980},
+  publisher={North-Holland Amsterdam}
+}
+
+@article{tarksi:83,
+author = {Tarski, A.},
+year = {1983},
+month = {01},
+pages = {152-278},
+title = {Der Wahrheitsbegriff in den formalisierten Sprachen},
+journal = {Logic, semantics, metamathematics: Papers from 1923 to 1938}
+}
+
+@article{gruber:16,
+  title={Alfred Tarski and the ``Concept of Truth in Formalized Languages''},
+  author={Gruber, Monika},
+  journal={A Running},
+  year={2016},
+  publisher={Springer}
+}
+
+@book{kleene:52,
+  title = {Introduction to Metamathematics},
+  publisher = {Princeton, NJ, USA: North Holland},
+  year = {1952},
+  author = {Stephen Cole Kleene}
+}
+
+@book{kleene:67,
+  title={Mathematical logic},
+  author={Kleene, Stephen {Cole}},
+  year={1967},
+  publisher={Wiley}
+}
+
+@book{smullyan:93,
+  title={Recursion theory for metamathematics},
+  author={Smullyan, Raymond M},
+  year={1993},
+  publisher={Oxford University Press on Demand}
+}
+
+@article{pullum:00,
+  title={Scooping the loop snooper},
+  author={Pullum, Geoffrey K},
+  journal={Mathematics Magazine},
+  volume={73},
+  number={4},
+  pages={319--320},
+  year={2000},
+  publisher={Washington, Mathematical Association of America}
+}
+
+@book{buss:98,
+  title={Handbook of proof theory},
+  author={Buss, Samuel R},
+  year={1998},
+  publisher={Elsevier}
+}
+
+@book{cook:10,
+  title={Logical foundations of proof complexity},
+  author={Cook, Stephen and Nguyen, Phuong},
+  volume={11},
+  year={2010},
+  publisher={Cambridge University Press Cambridge}
+}
+
+@inproceedings{nepomnjascii:70,
+  title={Rudimentary predicates and {T}uring calculations},
+  author={Nepomnjascii, V},
+  booktitle={Soviet Math. Doklady},
+  volume={11},
+  pages={1462--1465},
+  year={1970}
+}
+
+
+@article{parikh:71,
+  title={Existence and feasibility in arithmetic},
+  author={Parikh, Rohit},
+  journal={The Journal of Symbolic Logic},
+  volume={36},
+  number={3},
+  pages={494--508},
+  year={1971},
+  publisher={Cambridge University Press}
+}
+
+@article{wrathall:78,
+  title={Rudimentary predicates and relative computation},
+  author={Wrathall, Celia},
+  journal={SIAM Journal on Computing},
+  volume={7},
+  number={2},
+  pages={194--209},
+  year={1978},
+  publisher={SIAM}
+}
+
+@book{hajek:17,
+  title={Metamathematics of first-order arithmetic},
+  author={H{\'a}jek, Petr and Pudl{\'a}k, Pavel},
+  volume={3},
+  year={2017},
+  publisher={Cambridge University Press}
+}
+
+@article{buss:98b,
+  title={First-order proof theory of arithmetic},
+  author={Buss, Samuel R},
+  journal={Handbook of proof theory},
+  volume={137},
+  pages={79--147},
+  year={1998},
+  publisher={Elsevier Amsterdam}
+}
+
+@inproceedings{een:03,
+  title={An extensible SAT-solver},
+  author={E{\'e}n, Niklas and S{\"o}rensson, Niklas},
+  booktitle={International conference on theory and applications of satisfiability testing},
+  pages={502--518},
+  year={2003},
+  organization={Springer}
+}
+
+@inproceedings{janota:12,
+  title={Solving QBF with counterexample guided refinement},
+  author={Janota, Mikol{\'a}{\v{s}} and Klieber, William and Marques-Silva, Joao and Clarke, Edmund},
+  booktitle={International Conference on Theory and Applications of Satisfiability Testing},
+  pages={114--128},
+  year={2012},
+  organization={Springer}
+}
+
+@article{schoning:89,
+  title={Probabilistic complexity classes and lowness},
+  author={Sch{\"o}ning, Uwe},
+  journal={Journal of Computer and System Sciences},
+  volume={39},
+  number={1},
+  pages={84--100},
+  year={1989},
+  publisher={Elsevier}
+}
+
+@inproceedings{samulowitz:07,
+  title={Learning to solve QBF},
+  author={Samulowitz, Horst and Memisevic, Roland},
+  booktitle={AAAI},
+  volume={7},
+  pages={255--260},
+  year={2007}
+}
+
+@article{rogozhin:96,
+  title={Small universal {T}uring machines},
+  author={Rogozhin, Yurii},
+  journal={Theoretical Computer Science},
+  volume={168},
+  number={2},
+  pages={215--240},
+  year={1996},
+  publisher={Elsevier}
+}
+
+@article{shannon:56,
+  title={A universal {T}uring machine with two internal states},
+  author={Shannon, Claude E},
+  journal={Automata studies},
+  volume={34},
+  pages={157--165},
+  year={1956}
+}
+
+@book{minsky:67,
+  title={Computation},
+  author={Minsky, Marvin Lee},
+  year={1967},
+  publisher={Prentice-Hall Englewood Cliffs}
+}
+
+@article{cohen:87,
+  title={Computer viruses: theory and experiments},
+  author={Cohen, Fred},
+  journal={Computers \& security},
+  volume={6},
+  number={1},
+  pages={22--35},
+  year={1987},
+  publisher={Elsevier}
+}
+
+@phdthesis{cohen:86,
+  title={Computer Viruses},
+  author={Cohen, Fred},
+  school={University of Southern California},
+  year={1986}
+}
+
+@inproceedings{adleman:90,
+  title={An abstract theory of computer viruses},
+  author={Adleman, Leonard M},
+  booktitle={Conference on the theory and application of cryptography},
+  pages={354--374},
+  year={1990},
+  organization={Springer}
+}
+
+@article{peter:35,
+  title={Konstruktion nichtrekursiver funktionen},
+  author={P{\'e}ter, R{\'o}zsa},
+  journal={Mathematische Annalen},
+  volume={111},
+  number={1},
+  pages={42--60},
+  year={1935},
+  publisher={Springer}
+}
+
+@article{hajek:79,
+  title={Arithmetical hierarchy and complexity of computation},
+  author={H{\'a}jek, Petr},
+  journal={Theoretical Computer Science},
+  volume={8},
+  number={2},
+  pages={227--237},
+  year={1979},
+  publisher={Elsevier}
+}
+
+@inproceedings{ladner:74,
+  title={Comparison of polynomial-time reducibilities},
+  author={Ladner, Richard and Lynch, Nancy and Selman, Alan},
+  booktitle={Proceedings of the sixth annual ACM symposium on Theory of computing},
+  pages={110--121},
+  year={1974}
+}
+
+@article{ladner:75,
+  title={On the structure of polynomial time reducibility},
+  author={Ladner, Richard E},
+  journal={Journal of the ACM (JACM)},
+  volume={22},
+  number={1},
+  pages={155--171},
+  year={1975},
+  publisher={ACM New York, NY, USA}
+}
+
+@techreport{landweber:78,
+  title={On the structure of sets in NP and other complexity classes},
+  author={Landweber, Lawrence and Lipton, Richard and Robertson, Edward},
+  year={1978},
+  institution={University of Wisconsin-Madison Department of Computer Sciences}
+}
+
+@inproceedings{selman:79,
+  title={P-selective sets, tally languages, and the behavior of polynomial time reducibilities on NP},
+  author={Selman, Alan L},
+  booktitle={International Colloquium on Automata, Languages, and Programming},
+  pages={546--555},
+  year={1979},
+  organization={Springer}
+}
+
+
+@article{schoning:82,
+  title={A uniform approach to obtain diagonal sets in complexity classes},
+  author={Sch{\"o}ning, Uwe},
+  journal={Theoretical Computer Science},
+  volume={18},
+  number={1},
+  pages={95--103},
+  year={1982},
+  publisher={Elsevier}
+}
+
+@article{bonfante:06,
+  title={On abstract computer virology from a recursion theoretic perspective},
+  author={Bonfante, Guillaume and Kaczmarek, Matthieu and Marion, J-Y},
+  journal={Journal in computer virology},
+  volume={1},
+  number={3},
+  pages={45--54},
+  year={2006},
+  publisher={Springer}
+}
+
+
+@article{lloyd:12,
+  title={A {T}uring test for free will},
+  author={Lloyd, Seth},
+  journal={Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences},
+  volume={370},
+  number={1971},
+  pages={3597--3610},
+  year={2012},
+  publisher={The Royal Society Publishing}
+}
+
+@book{laplace:98,
+  title={Pierre-Simon Laplace philosophical essay on probabilities: translated from the fifth french edition of 1825 with notes by the translator},
+  author={Laplace, Pierre-Simon},
+  volume={13},
+  year={1998},
+  publisher={Springer Science \& Business Media}
+}
+
+@article{pavlotskaya:73,
+  title={Solvability of the halting problem for certain classes of {T}uring machines},
+  author={Pavlotskaya, L. M.},
+  journal={Mathematical notes of the Academy of Sciences of the USSR},
+  volume={13},
+  number={6},
+  pages={537--541},
+  year={1973},
+  publisher={Springer}
+}
+
+
+@article{rogozhin:92,
+  title={A universal {T}uring machine with 10 states and 3 symbols},
+  author={Rogozhin, Yu},
+  journal={Zzvestiya Akademii Nauk Respubliki Moldova, Matematika},
+  volume={4},
+  pages={80--82},
+  year={1992}
+}
+
+@inproceedings{rogozhin:82,
+  title={Seven universal {T}uring machines},
+  booktitle = {Systems and Theoretical Programming, Math. Issled},
+  author={Rogozhin, Yurii},
+  volume={69},
+  pages={76--90},
+  year={1982},
+  organization={Academiya Nauk Moldavskoi}
+}
+
+
+@article{shagrir:12,
+ author               = {Oron Shagrir},
+ journal              = {Natural Computing},
+ number               = {1},
+ pages                = {51--58},
+ title                = {Supertasks do not increase computational power},
+ volume               = {11},
+ year                 = {2012},
+}
+ 
+@book{herbert:69,
+  title={Dune Messiah},
+  author={Herbert, Frank},
+  year={1969},
+  publisher={Putnam Publishing}
+}
+
+@book{syropoulos:08,
+  title={{H}ypercomputation: computing beyond the Church-{T}uring barrier},
+  author={Apostolos Syropoulos},
+  year={2008},
+  publisher={Springer Science \& Business Media}
+}
+
+
+@article{cockshott:08,
+  title={Physical constraints on hypercomputation},
+  author={Cockshott, Paul and Mackenzie, Lewis and Michaelson, Greg},
+  journal={Theoretical Computer Science},
+  volume={394},
+  number={3},
+  pages={159--174},
+  year={2008},
+  publisher={Elsevier}
+}
+
+@inproceedings{karp:80,
+  title={Some connections between nonuniform and uniform complexity classes},
+  author={Karp, Richard M and Lipton, Richard J},
+  booktitle={Proceedings of the twelfth annual ACM symposium on Theory of computing},
+  pages={302--309},
+  year={1980}
+}
+
+
+@article{cocke:64,
+  title={Universality of tag systems with P = 2},
+  author={Cocke, John and Minsky, Marvin},
+  journal={Journal of the ACM (JACM)},
+  volume={11},
+  number={1},
+  pages={15--20},
+  year={1964},
+  publisher={ACM New York, NY, USA}
+}
+
+@article{minsky:61,
+  title={Recursive unsolvability of Post's problem of ``tag'' and other topics in theory of {T}uring machines},
+  author={Minsky, Marvin L},
+  journal={Annals of Mathematics},
+  pages={437--455},
+  year={1961},
+  publisher={JSTOR}
+}
+
+
+@article{blum:67,
+  title={A machine-independent theory of the complexity of recursive functions},
+  author={Blum, Manuel},
+  journal={Journal of the ACM (JACM)},
+  volume={14},
+  number={2},
+  pages={322--336},
+  year={1967},
+  publisher={ACM New York, NY, USA}
+}
+
+
+@article{neumann:93,
+  title={First Draft of a Report on the EDVAC},
+  author={Von Neumann, John},
+  journal={IEEE Annals of the History of Computing},
+  volume={15},
+  number={4},
+  pages={27--75},
+  year={1993},
+  publisher={IEEE}
+}
+
+@article{stearns:90,
+  title={Juris Hartmanis: the beginnings of computational complexity},
+  author={Stearns, Richard E},
+  journal={Complexity Theory Retrospective: In Honor of Juris Hartmanis on the Occasion of His Sixtieth Birthday, July 5, 1988},
+  pages={5--18},
+  year={1990},
+  publisher={Springer}
+}
+
+
+@article{hennie:65,
+  title={One-tape, off-line {T}uring machine computations},
+  author={Hennie, Fred C},
+  journal={Information and Control},
+  volume={8},
+  number={6},
+  pages={553--578},
+  year={1965},
+  publisher={Elsevier}
+}
+
+
+@article{wagner:86,
+  title={Some observations on the connection between counting and recursion},
+  author={Wagner, Klaus W},
+  journal={Theoretical Computer Science},
+  volume={47},
+  pages={131--147},
+  year={1986},
+  publisher={Elsevier}
+}
+
+
+@inproceedings{bernstein:93,
+  title={Quantum complexity theory},
+  author={Bernstein, Ethan and Vazirani, Umesh},
+  booktitle={Proceedings of the twenty-fifth annual ACM symposium on Theory of computing},
+  pages={11--20},
+  year={1993}
+}
+
+
+@article{deutsch:85,
+  title={Quantum theory, the Church--{T}uring principle and the universal quantum computer},
+  author={Deutsch, David},
+  journal={Proceedings of the Royal Society of London. A. Mathematical and Physical Sciences},
+  volume={400},
+  number={1818},
+  pages={97--117},
+  year={1985},
+  publisher={The Royal Society London}
+}
+
+
+@inproceedings{dal:21,
+  title={A recursion-theoretic characterization of the probabilistic class PP},
+  author={Dal Lago, Ugo and Kahle, Reinhard and Oitavem, Isabel},
+  booktitle={MFCS 2021-46th International Symposium on Mathematical Foundations of Computer Science},
+  year={2021}
+}
+
+@article{vollmer:96,
+  title={Recursion theoretic characterizations of complexity classes of counting functions},
+  author={Vollmer, Heribert and Wagner, Klaus W},
+  journal={Theoretical Computer Science},
+  volume={163},
+  number={1-2},
+  pages={245--258},
+  year={1996},
+  publisher={Elsevier}
+}
+
+
+@article{dal:22,
+  title={Implicit recursion-theoretic characterizations of counting classes},
+  author={Dal Lago, Ugo and Kahle, Reinhard and Oitavem, Isabel},
+  journal={Archive for Mathematical Logic},
+  pages={1--16},
+  year={2022},
+  publisher={Springer}
+}
+
+
+@article{avanzini:15,
+title = {A new order-theoretic characterisation of the polytime computable functions},
+journal = {Theoretical Computer Science},
+volume = {585},
+pages = {3-24},
+year = {2015},
+author = {Martin Avanzini and Naohi Eguchi and Georg Moser}
+}
+
+@inproceedings{arai:05,
+  title={Proofs of termination of rewrite systems for polytime functions},
+  author={Arai, Toshiyasu and Moser, Georg},
+  booktitle={International Conference on Foundations of Software Technology and Theoretical Computer Science},
+  pages={529--540},
+  year={2005},
+  organization={Springer}
+}
+
+@inproceedings{avanzini:08,
+  title={Complexity Analysis by Rewriting},
+  author={Avanzini, Martin and Moser, Georg},
+  booktitle={International Symposium on Functional and Logic Programming},
+  pages={130--146},
+  year={2008},
+  organization={Springer}
+}
+
+@inproceedings{avanzini:09,
+  title={Dependency pairs and polynomial path orders},
+  author={Avanzini, Martin and Moser, Georg},
+  booktitle={International Conference on Rewriting Techniques and Applications},
+  pages={48--62},
+  year={2009},
+  organization={Springer}
+}
+
+
+@article{avanzini:13,
+  title = {Polynomial Path Orders},
+  author = {Martin Avanzini and Georg Moser},
+  journal = {Logical Methods in Computer Science},
+  volume = 9,
+  number = 4,
+  year = {2013}
+}
+
+@article{gaboardi:12,
+  title={An implicit characterization of pspace},
+  author={Gaboardi, Marco and Marion, Jean-Yves and Ronchi Della Rocca, Simona},
+  journal={ACM Transactions on Computational Logic (TOCL)},
+  volume={13},
+  number={2},
+  pages={1--36},
+  year={2012},
+  publisher={ACM New York, NY, USA}
+}
+
+@article{valiant:74,
+  title={A polynomial reduction of satisfiability to Hamiltonian circuits that preserves the number of solutions},
+  author={Valiant, LG},
+  journal={Univ. of Leeds},
+  year={1974}
+}
+
+@article{church:37,
+ author = {Alonzo Church},
+ journal = {The Journal of Symbolic Logic},
+ number = {1},
+ pages = {42--43},
+ publisher = {Association for Symbolic Logic, Cambridge University Press},
+ title = {{Review of On Computable Numbers, with an Application to the Entscheidungsproblem, by A. M. Turing}},
+ volume = {2},
+ year = {1937}
+}
+
+
+@article{karp:82,
+  title={{T}uring machines that take advice},
+  author={Karp, Richard},
+  journal={Enseign. Math.},
+  volume={28},
+  pages={191--209},
+  year={1982}
+}
+
+@inproceedings{meyer:67,
+  title={The complexity of loop programs},
+  author={Meyer, Albert R and Ritchie, Dennis M},
+  booktitle={Proceedings of the 1967 22nd national conference},
+  pages={465--469},
+  year={1967}
+}
+
+@inproceedings{handley:99,
+  title={Complexity of primitive recursion},
+  author={Handley, William G and Wainer, Stanley S},
+  booktitle={Computational Logic},
+  pages={273--300},
+  year={1999},
+  organization={Springer}
+}
+
+@article{campagnolo:02,
+  title={An analog characterization of the Grzegorczyk hierarchy},
+  author={Campagnolo, Manuel Lameiras and Moore, Cristopher and Costa, Jos{\'e} F{\'e}lix},
+  journal={Journal of Complexity},
+  volume={18},
+  number={4},
+  pages={977--1000},
+  year={2002},
+  publisher={Elsevier}
+}
+
+@inproceedings{valiant:85,
+  title={NP is as easy as detecting unique solutions},
+  author={Valiant, Leslie G and Vazirani, Vijay V},
+  booktitle={Proceedings of the seventeenth annual ACM symposium on Theory of computing},
+  pages={458--463},
+  year={1985}
+}
+
+
+@article{frege:79,
+  title={Begriffsschrift, eine der arithmetischen nachgebildete Formelsprache des reinen Denken},
+  author={Frege, Gottlob},
+  journal={Halle a. S.: Louis Nebert},
+  volume={1931},
+  pages={1--82},
+  year={1879}
+}
+
+@book{frege:93,
+  title={Grundgesetze der Arithmetik: begriffsschriftlich abgeleitet},
+  author={Frege, Gottlob},
+  volume={I/II},
+  year={1893},
+  publisher={H. Pohle}
+}
+
+@book{hilbert:34,
+  title={Grundlagen der mathematik vol. I},
+  author={Hilbert, David and Bernays, Paul},
+  publisher={Springer},
+  year={1934}
+}
+
+@book{hilbert:39,
+  title={Grundlagen der mathematik vol. II},
+  author={Hilbert, David and Bernays, Paul},
+  publisher={Springer},
+  year={1939}
+}
+
+@article{gentzen:64,
+  title={Investigations into logical deduction},
+  author={Gentzen, Gerhard},
+  journal={American philosophical quarterly},
+  volume={1},
+  number={4},
+  pages={288--306},
+  year={1964},
+  publisher={JSTOR}
+}
+
+@article{mittelstrass:79,
+  title={The philosopher's conception of Mathesis Universalis from Descartes to Leibniz},
+  author={Mittelstrass, J{\"u}rgen},
+  journal={Annals of Science},
+  volume={36},
+  number={6},
+  pages={593--610},
+  year={1979},
+  publisher={Taylor \& Francis}
+}
+
+
+@book{gentzen:69,
+  title={The collected papers},
+  author={Gentzen, Gerhard},
+  year={1969},
+  publisher={North-Holland Publishing Company}
+}
+
+@article{oitavem:22,
+title = {The polynomial hierarchy of functions and its levels},
+journal = {Theoretical Computer Science},
+volume = {900},
+pages = {25-34},
+year = {2022},
+author = {Isabel Oitavem}
+}
+
+
+@article{clote:99,
+  title={Computation Models and Function Algebras.},
+  author={Clote, Peter},
+  journal={Handbook of computability theory},
+  volume={140},
+  pages={589--681},
+  year={1999},
+  publisher={Citeseer}
+}
+
+@inproceedings{hartmanis:76,
+  title={On isomorphisms and density of NP and other complete sets},
+  author={Hartmanis, Juris and Berman, Leonard},
+  booktitle={Proceedings of the eighth annual ACM symposium on Theory of computing},
+  pages={30--40},
+  year={1976}
+}
+
+@inproceedings{berman:78,
+  title={Relationship between density and deterministic complexity of MP-complete languages},
+  author={Berman, Piotr},
+  booktitle={Automata, Languages and Programming: Fifth Colloquium, Udine, Italy, July 17--21, 1978 5},
+  pages={63--71},
+  year={1978},
+  organization={Springer}
+}
+
+@article{fortune:79,
+  title={A note on sparse complete sets},
+  author={Fortune, Steven},
+  journal={SIAM Journal on Computing},
+  volume={8},
+  number={3},
+  pages={431--433},
+  year={1979},
+  publisher={SIAM}
+}
+
+@techreport{hartmanis:80b,
+  title={On Census Complexity and Sparseness of NP Complete Sets},
+  author={Hartmanis, Juris and Mahaney, Stephen R},
+  year={1980},
+  institution={Cornell University}
+}
+
+@article{mahaney:82,
+  title={Sparse complete sets for NP: Solution of a conjecture of Berman and Hartmanis},
+  author={Mahaney, Stephen R},
+  journal={Journal of Computer and System Sciences},
+  volume={25},
+  number={2},
+  pages={130--143},
+  year={1982},
+  publisher={Elsevier}
+}
+
+@article{schnorr:76,
+  title={The network complexity and the Turing machine complexity of finite functions},
+  author={Schnorr, Claus-Peter},
+  journal={Acta Informatica},
+  volume={7},
+  pages={95--107},
+  year={1976},
+  publisher={Springer}
+}
+
+@article{fischer:74,
+  title={Lectures on network complexity},
+  author={Fischer, Michael J},
+  journal={Preprint Universit{\"a}t Frankfurt},
+  year={1974}
+}
+
+@article{borodin:77,
+  title={On relating time and space to size and depth},
+  author={Borodin, Allan},
+  journal={SIAM journal on computing},
+  volume={6},
+  number={4},
+  pages={733--744},
+  year={1977},
+  publisher={SIAM}
+}
+
+@book{vishkin:83,
+  title={Synchronous parallel computation - {A} survey},
+  author={Vishkin, Uzi},
+  year={1983},
+  publisher={Courant Institute of Mathematical Sciences, New York University}
+}
+
+@article{cook:81,
+  title={Towards a complexity theory of synchronous parallel computation},
+  author={Cook, Stephen A},
+  journal={L Enseignement mathmatique},
+  pages={99--124},
+  year={1981}
+}
+
+@article{wilson:87,
+  title={Relativized {NC}},
+  author={Wilson, Christopher B},
+  journal={Mathematical Systems Theory},
+  volume={20},
+  pages={13--29},
+  year={1987},
+  publisher={Springer}
+}
+
+@inproceedings{cook:79,
+  title={Deterministic CFL's are accepted simultaneously in polynomial time and log squared space},
+  author={Cook, Stephen A},
+  booktitle={Proceedings of the eleventh annual ACM Symposium on Theory of Computing},
+  pages={338--345},
+  year={1979}
+}
+
+@article{cook:85,
+  title={A taxonomy of problems with fast parallel algorithms},
+  author={Cook, Stephen A},
+  journal={Information and control},
+  volume={64},
+  number={1-3},
+  pages={2--22},
+  year={1985},
+  publisher={Elsevier}
+}
+
+@article{ruzzo:81,
+  title={On uniform circuit complexity},
+  author={Ruzzo, Walter L},
+  journal={Journal of Computer and System Sciences},
+  volume={22},
+  number={3},
+  pages={365--383},
+  year={1981},
+  publisher={Elsevier}
+}
+
+@inproceedings{pippenger:79,
+  title={On simultaneous resource bounds},
+  author={Pippenger, Nicholas},
+  booktitle={20th Annual Symposium on Foundations of Computer Science (sfcs 1979)},
+  pages={307--311},
+  year={1979},
+  organization={IEEE}
+}
+
+
+@article{kannan:82,
+  title={Circuit-size lower bounds and non-reducibility to sparse sets},
+  author={Kannan, Ravi},
+  journal={Information and control},
+  volume={55},
+  number={1-3},
+  pages={40--56},
+  year={1982},
+  publisher={Elsevier}
+}
+
+
+@inproceedings{leivant:95b,
+  title={Ramified recurrence and computational complexity II: substitution and poly-space},
+  author={Leivant, Daniel and Marion, Jean-Yves},
+  booktitle={International Workshop on Computer Science Logic},
+  pages={486--500},
+  year={1995},
+  organization={Springer}
+}
+
+
+
+@inproceedings{lee:63,
+  title={A {T}uring machine which prints its own code script},
+  author={Lee, CY},
+  booktitle={Proceedings of the Symposium on Mathematical Theory of Automata},
+  pages={155--164},
+  year={1963},
+  organization={Polytechnic Press Brooklyn}
+}
